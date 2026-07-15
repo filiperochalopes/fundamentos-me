@@ -1,5 +1,20 @@
 # 4 - O nascimento da igreja 
 
+Antes de estabelecer a igreja, Deus tinha que tomar algumas decisões importantes. Diante dessas questões, Deus decidiu criar uma nação que fosse o berço da vinda do Messias. De um único homem, Abraão, Deus fez esta nação. Mais adiante, Deus tirou Abraão de uma cultura idólatra e o manteve afastado, vivendo em tendas por toda sua vida, para que não tivesse contato com o conselho dos ímpios, para que ficasse descontaminado.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  Como a vinda do Messias se dá no Novo Testamento Quem é responsável por propagar esta**
+At 2:2-7 | At 2:36
+
+**👉🏼  Resultado da pregação de Pedro O que o versículo 37 de Atos 2 nos mostra de forma tão importante?**
+At 2:38 | At 2:47
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=At+2%3A2-7%3BAt+2%3A36%3BAt+2%3A38%3BAt+2%3A47%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/9d75f98696061a8a2b779c5940f71033-%23004+-+O+NASCIMENTO+DA+IGREJA+-+Fundamentos.mp4)

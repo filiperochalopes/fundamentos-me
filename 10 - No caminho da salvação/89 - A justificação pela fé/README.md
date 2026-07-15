@@ -1,5 +1,14 @@
 # 89 - A justificação pela fé
 
+Veremos que a solução para condenação é dada por Jesus, que nos justificou, pagando a nossa impagável dívida. No entanto, o texto destaca que as duas coisas são verdadeiras. O quadro abaixo resume o que foi tratado na lição passada e traz elementos do que será desenvolvido nesta e nas próximas lições. É um guia para meditação e aprofundamento, por meio da leitura dos textos indicados. *Propiciação é o ato de Deus em Cristo pelo qual Ele se torna favorável a nós. **Expiação é o cancelamento da dívida do pecado.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=Ef+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/377ae5769620cb26b9af7e64f8708f90-%23089+-+A+justificacao+pela+fe+-+Fundamentos.mp4)

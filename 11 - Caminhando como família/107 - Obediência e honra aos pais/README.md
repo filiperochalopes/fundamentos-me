@@ -1,5 +1,17 @@
 # 107 - Obediência e honra aos pais 
 
+Aprenderemos que essas duas atitudes são a vontade de Deus para os filhos, sendo Jesus o nosso modelo. O que Deus requer dos filhos é a obediência e a honra aos pais. O curioso é que, na língua hebraica, essa mesma palavra também pode ser traduzida para obedecer, dar ouvidos, prestar atenção para cumprir o que está sendo dito, entender, consentir, concordar etc. Para os filhos que possuem pais que ainda não conhecem ao Senhor, a orientação é que devem obedecê-los para que sua obediência sirva de testemunho para eles.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  Textos introdutórios e fundamento da lição**
+Ef 6:1 | Cl 3:20 | Lc 2:51-52 | Fp 2:5-8 | Lc 6:46 | Ef 6:2-3 | Ex 20:12 | Dt 21:18-21 | Ml 4:6 | Lc 1:17 | 1Pe 2:17
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=Ef+6%3A1%3BCl+3%3A20%3BLc+2%3A51-52%3BFp+2%3A5-8%3BLc+6%3A46%3BEf+6%3A2-3%3BEx+20%3A12%3BDt+21%3A18-21%3BMl+4%3A6%3BLc+1%3A17%3B1Pe+2%3A17%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/38bd8f19a7d7d98cd0eb0c83fb70b7ca-%23107+-+Obediencia+e+honra+aos+pais+-+Fundamentos.mp4)

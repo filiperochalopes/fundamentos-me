@@ -1,5 +1,23 @@
 # 87 - Capacitando os Discipuladores
 
+Nesta octogésima sétima lição do Fundamentos, vamos analisar atentamente como e se a nossa estratégia de ensino e orientação tem cooperado com a formação e capacitação dos discipuladores (no serviço diário) que estão na Igreja na casa. Trata-se de um tema altamente desafiador e animador ao mesmo tempo. Precisamos analisar se nosso ministério aponta para a formação daqueles que estão conosco, cooperando com o Senhor. Trata-se de um serviço de formação e apoio muito importante.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  Os discipuladores são parte da estrutura de funcionamento da Igreja**
+2Tm 3:16-17 | 2Tm 1:13
+
+**👉🏼  Quanto à formação dos discipuladores Nesta formação há que se perguntar**
+Cl 1:26-29
+
+**👉🏼  Objetivos principais das juntas e ligamentos de discipulado Relacionamos quatro**
+2Co 11:2 | 1Ts 2:11-12
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=2Tm+3%3A16-17%3B2Tm+1%3A13%3BCl+1%3A26-29%3B2Co+11%3A2%3B1Ts+2%3A11-12%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/aa7e0ec7f1ba6841ca9e01e4c1c3ae5f-%23087+-+Capacitando+os+discipuladores+-+Fundamentos.mp4)

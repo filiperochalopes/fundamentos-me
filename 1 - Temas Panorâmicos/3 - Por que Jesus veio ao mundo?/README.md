@@ -1,5 +1,29 @@
 # 3 - Por que Jesus veio ao mundo?
 
+Este fato é tão importante que dividiu o calendário e a história da humanidade. E Jesus, sua vida, sua vinda, sua obra, sua ida e sua volta são o cerne desta história. Um dia, lá na eternidade, subiu ao coração de Deus o desejo de ter filhos. O Criador inicia o processo de formar a família que desejava, de filhos semelhantes a si mesmo.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  A criação**
+Gn 1:26-27 | Gn 3:4-6
+
+**👉🏼  A queda**
+Rm 5:12 | Rm 3:23 | Gn 6:5-7 | Gn 6:11-12
+
+**👉🏼  ELE TENTA POR MEIO DE PROFETAS E REIS**
+Rm 1:18-32 | Rm 3:10-12
+
+**👉🏼  TORNOU SERVO**
+1Co 15:45-57
+
+**👉🏼  A mensagem pregada**
+At 3:17-23 | Ef 1:3-14
+
+**👉🏼  TEXTOS PARA LEITURA COMPLEMENTAR**
+1Jo 4:10 | Hb 12:2 | Gn 6:7 | Ap 13:8 | Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=Gn+1%3A26-27%3BGn+3%3A4-6%3BRm+5%3A12%3BRm+3%3A23%3BGn+6%3A5-7%3BGn+6%3A11-12%3BRm+1%3A18-32%3BRm+3%3A10-12%3B1Co+15%3A45-57%3BAt+3%3A17-23%3BEf+1%3A3-14%3B1Jo+4%3A10%3BHb+12%3A2%3BGn+6%3A7%3BAp+13%3A8%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/6d160305c0ca6c7904baff4c98440250-%23003+-+POR+QUE+JESUS+VEIO+AO+MUNDO%3F+-+Fundamentos.mp4)

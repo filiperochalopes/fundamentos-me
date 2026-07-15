@@ -1,5 +1,41 @@
 # 53 - Os dons do Espírito Santo 
 
+Não falaremos de forma detalhada de cada um deles, pois, mais adiante, eles serão abordados um por um. Neste momento, queremos mostrar a importância da manifestação dos dons nas nossas vidas, e como nós, cristãos, devemos compreender este assunto. Temos uma tendência natural de achar que os dons do Espírito Santo estão registrados apenas na carta de 1 Coríntios 12. Ali temos o registro de uma parte importante dos dons espirituais, contudo não é a lista completa.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  Os dons do Espírito Santo sendo manifestados no serviço específico**
+Ef 4:7-8 | Ef 4:11-12
+
+**👉🏼  Os dons são dados para que sejamos despenseiros da multiforme graça de Deus**
+1Pe 4:10-11
+
+**👉🏼  Os dons apresentados para mostrar a beleza da pluralidade na manifestação das diferentes graças**
+Rm 12:3 | Rm 12:6-8
+
+**👉🏼  Dons e práticas na vida diária da igreja (e quando essa sequência de dons se encontra para edificar)**
+1Co 12:1 | 1Co 12:4-7 | 1Co 12:8-11
+
+**👉🏼  Procurar com zelo os dons espirituais**
+1Co 14:1
+
+**👉🏼  Desejar os dons espirituais e procurar progredir neles. Há**
+1Co 14:12
+
+**👉🏼  Não sermos negligentes**
+1Tm 4:14
+
+**👉🏼  Reavivar o dom de Deus**
+2Tm 1:6
+
+**👉🏼  Que entre nós não falte nenhum dom**
+1Co 1:5-8
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=Ef+4%3A7-8%3BEf+4%3A11-12%3B1Pe+4%3A10-11%3BRm+12%3A3%3BRm+12%3A6-8%3B1Co+12%3A1%3B1Co+12%3A4-7%3B1Co+12%3A8-11%3B1Co+14%3A1%3B1Co+14%3A12%3B1Tm+4%3A14%3B2Tm+1%3A6%3B1Co+1%3A5-8%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/6525fc50fd8c79a3962f0416461ecce9-%23053+-+OS+DONS+DO+ESPIRITO+SANTO++-+Fundamentos.mp4)

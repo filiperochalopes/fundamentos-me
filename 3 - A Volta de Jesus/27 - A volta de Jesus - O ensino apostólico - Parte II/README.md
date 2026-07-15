@@ -1,5 +1,23 @@
 # 27 - A volta de Jesus: O ensino apostólico - Parte II
 
+A volta de Jesus O ensino apostólico Parte II Nesta vigésima sétima lição, vamos dar continuidade aos estudos sobre a volta de Jesus, conforme o ensino apostólico. Nossa atenção estará voltada para a primeira ressurreição, o arrebatamento, a glorificação dos nossos corpos e a destruição do iníquo. Falaremos sobre o dia do nosso encontro com o Senhor, no qual o veremos face a face. Para nos ajudar a compreender melhor, lembremos as circunstâncias em que tudo ocorrerá.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  A 1ª ressurreição e o arrebatamento**
+Dn 11:32 | Lc 21:28 | Jo 14:2-4 | Mt 24:30 | 1Co 15:51-52
+
+**👉🏼  Como será nosso corpo?**
+1Jo 3:2-3 | Fp 3:20-21 | 1Co 15:53-55 | Fp 3:21;1 | 1Co 15:49 | 1Co 15:42-43 | Fp 3:21 | 1Co 15:42,51-54 | 1Co 15:54-56
+
+**👉🏼  O Senhor destruirá o iníquo “Com efeito, o mistério da iniquidade já opera e aguarda somente que seja**
+2Ts 2:7-8
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+1Jo 3:2-3 | Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=Dn+11%3A32%3BLc+21%3A28%3BJo+14%3A2-4%3BMt+24%3A30%3B1Co+15%3A51-52%3B1Jo+3%3A2-3%3BFp+3%3A20-21%3B1Co+15%3A53-55%3BFp+3%3A21%3B1%3B1Co+15%3A49%3B1Co+15%3A42-43%3BFp+3%3A21%3B1Co+15%3A42%2C51-54%3B1Co+15%3A54-56%3B2Ts+2%3A7-8%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/8f9ffe68fb1e10100b1faa8cb71a30d7-%23027+-+A+VOLTA+DE+JESUS_+O+ENSINO+APOST%C3%83%C2%93LICO+-+PARTE+II+-+Fundamentos.mp4)

@@ -1,5 +1,20 @@
 # 30 - Arrebatamento secreto?
 
+Seus defensores acreditam que a igreja será arrebatada antes do início da Grande Tribulação, e que Jesus pode vir a qualquer momento, de forma invisível, para levar a igreja num arrebatamento secreto. Iremos comparar essa visão com as visões de Jesus e dos apóstolos e pontuar as contradições. Para seus defensores, haverá um arrebatamento secreto, que Jesus pode vir a qualquer momento, de forma invisível, e vai arrebatar a igreja. Depois disso, então, é que o anticristo será revelado e se manifestará, e começará a tribulação.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  Confunde tribulação com a ira de Deus Os pré-tribulacionistas afirmam que a igreja será guardada da ira**
+Jl 2:30-31
+
+**👉🏼  A primeira ressurreição passaria por vários estágios**
+Ap 20:5 | Ap 3:10 | Ap 4:1
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=Jl+2%3A30-31%3BAp+20%3A5%3BAp+3%3A10%3BAp+4%3A1%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/18d26353706e01cbc66156beea4010de-%23030+-+ARREBAMENTO+SECRETO_+-+Fundamentos.mp4)

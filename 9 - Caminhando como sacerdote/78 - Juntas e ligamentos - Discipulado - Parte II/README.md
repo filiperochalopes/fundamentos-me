@@ -1,5 +1,14 @@
 # 78 - Juntas e ligamentos: Discipulado - Parte II
 
+Nela apresentaremos mais cinco erros que são cometidos e precisam ser observados e corrigidos. Como vimos na lição anterior, imitar o modelo de Jesus é a grande solução para todas as questões e para evitar de cometer equívocos. Gostaria de lembrar que, para cada um dos equívocos, desvios ou erros que foram apresentados na lição passada e os que serão apresentados aqui, a solução é sempre Jesus. Hoje nós seguiremos na mesma linha, veremos outros tipos de erros que cometemos e que a nossa chance de errar irá diminuir sempre que olharmos para Jesus.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=Ef+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/e8f5153e765fa152b43f186e7cb74802-%23078+-+Juntas+e+ligamentos_+Discipulado+-+Parte+II+-+Fundamentos.mp4)

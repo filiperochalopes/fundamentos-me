@@ -1,5 +1,32 @@
 # 13 - O que Jesus ensinou?
 
+Nesta décima terceira lição, daremos início ao segundo ciclo do ensino de Jesus. Até esta parte do ensino vimos sobre a deidade e humanidade de Cristo, as provas de que ele é o Messias esperado por Israel. Estudamos como Jesus agradou o Pai com uma vida perfeita e irrepreensível, e como foi usado com poder e unção do Espírito Santo para realizar sua obra redentora, com sinais e milagres. Vimos também como Jesus se dedicou a um relacionamento estreito, de proximidade com os doze que andavam com ele, a fim de formá-los.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  Um princípio infalível: O que Jesus ensinou? Onde você está edificando a sua casa?**
+Mt 7:24-27
+
+**👉🏼  Eu sou a ressurreição e a vida... quem crer em mim, ainda que morra, viverá**
+Hb 2:15
+
+**👉🏼  Eu sou o bom pastor... conheço as minhas ovelhas e elas me conhecem, elas ouvem a minha voz**
+Mt 7:28-29
+
+**👉🏼  Riqueza**
+Cl 2:3
+
+**👉🏼  Nossa salvação e redenção não é toda pela fé? Sim, mas é uma fé**
+Jo 14:21 | Jo 6:57
+
+**👉🏼  A parábola dos talentos**
+Rm 11:22
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=Mt+7%3A24-27%3BHb+2%3A15%3BMt+7%3A28-29%3BCl+2%3A3%3BJo+14%3A21%3BJo+6%3A57%3BRm+11%3A22%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/1aa216a854a183fa1d0ac28d87ece0e0-%23013+-+O+QUE+JESUS+ENSINOU%3F+-+Fundamentos.mp4)

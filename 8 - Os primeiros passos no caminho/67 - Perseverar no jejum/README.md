@@ -1,5 +1,26 @@
 # 67 - Perseverar no jejum
 
+Além da oração, o jejum também é uma arma que nos aproxima de Deus, nos humilhando perante Ele. Move o mundo espiritual e, por nos humilhar, subjugando nossa carne e prazeres, faz-nos reconhecer nossa pequenez e a grandeza de Deus. Em verdade vos digo que já receberam o seu galardão. Entretanto, ele adverte contra os males da religião e convida que sejam praticados da maneira correta e com as motivações espirituais corretas.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  Jejum, uma chave espiritual de comunhão e quebrantamento Jesus começou com uma orientação/advertência**
+Mt 6:16-18
+
+**👉🏼  O principal propósito do jejum**
+Sl 35:13 | Ed 8:21-23 | 2Cr 20:3-4
+
+**👉🏼  A forma apontada por Deus**
+Lv 16:29-31 | Jn 3:7-8 | Jn 3:10 | Jn 3:4-8 | 1Rs 21:27 | Jl 2:12 | Jl 2:17 | Jl 2:18
+
+**👉🏼  Jejum no Novo Testamento**
+Lc 4:1 | Lc 4:14 | At 13:1-4 | At 14:23 | 2Co 6:4-6
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=Mt+6%3A16-18%3BSl+35%3A13%3BEd+8%3A21-23%3B2Cr+20%3A3-4%3BLv+16%3A29-31%3BJn+3%3A7-8%3BJn+3%3A10%3BJn+3%3A4-8%3B1Rs+21%3A27%3BJl+2%3A12%3BJl+2%3A17%3BJl+2%3A18%3BLc+4%3A1%3BLc+4%3A14%3BAt+13%3A1-4%3BAt+14%3A23%3B2Co+6%3A4-6%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/31bda484d2965546881c643d55e43470-%23067+-+Perseverar+no+jejum+-+Fundamentos.mp4)

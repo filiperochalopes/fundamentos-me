@@ -1,5 +1,23 @@
 # 132 - As Reuniões da Igreja à luz da Bíblia
 
+Compreenderemos melhor o verdadeiro sentido do termo liturgia, mal compreendido e interpretado durante a história da igreja. Veremos como deve ser a participação das pessoas nas reuniões, à luz do que o apóstolo Paulo orienta ao dizer que, quando reunidos, cada um tem algo a acrescentar. Aprenderemos que os ajuntamentos devem contar com a participação espontânea de todos, sob a orientação dos presbíteros e na estrita dependência do Espírito Santo. Fato é que é importante, necessário e abençoador a igreja se reunir.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  Participar com espontaneidade: a importância de cada um nos encontros**
+1Co 14:26 | Ef 4:7
+
+**👉🏼  A Liturgia: trabalho do povo A participação espontânea, de acordo com as orientações de Paulo**
+At 13:2 | Fp 2:17
+
+**👉🏼  O papel de quem preside as reuniões Quando estamos reunidos, o ambiente deve ser de entrega a Deus,**
+1Co 14:28-30 | 1Ts 5:19-21
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=1Co+14%3A26%3BEf+4%3A7%3BAt+13%3A2%3BFp+2%3A17%3B1Co+14%3A28-30%3B1Ts+5%3A19-21%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/632cbe30307f03cae55fe93195b1b7d8-%23132+-+As+reunioes+da+igreja+a+luz+da+Biblia+-+Fundamentos+%281%29.mp4)

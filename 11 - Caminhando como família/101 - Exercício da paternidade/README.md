@@ -1,5 +1,29 @@
 # 101 - Exercício da paternidade
 
+O exercício da paternidade Nesta centésima primeira lição do Fundamentos, vamos propor um exercício quanto à paternidade, a fim de entender e orientar o que Deus espera de pais e mães, e responsáveis, em relação à criação de seus filhos. Veremos o exercício da paternidade (ou maternidade) no serviço com os nossos filhos pequenos, jovens e adultos. Muitos de nós estamos acostumados a apenas corrigir e repreender nossos filhos, quando necessário, mas isso é realmente muito pouco. Nossa RESPONSABILIDADE envolve consagrar os filhos, treinando - -os na OBEDIÊNCIA, capacitando-os a DECIDIR e conduzindo-os a PROJETAR A VIDA.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  Consagrar: ensinar, treinar e conduzir os filhos Comecemos nossa reflexão com a leitura dos textos**
+Hb 13:8 | Sl 78:3-4
+
+**👉🏼  Pai Abraão**
+Gn 12:1-4 | Gn 18:16-19
+
+**👉🏼  Guardar o caminho do Senhor Não é qualquer caminho, não é qualquer direção. Não são teorias,**
+Gn 2:15
+
+**👉🏼  Praticar a justiça e o juízo**
+Pv 21:15 | Ef 6:4 | Pv 22:6
+
+**👉🏼  Tarefa áurea dos pais**
+Pv 15:33
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 4:6 | Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=Hb+13%3A8%3BSl+78%3A3-4%3BGn+12%3A1-4%3BGn+18%3A16-19%3BGn+2%3A15%3BPv+21%3A15%3BEf+6%3A4%3BPv+22%3A6%3BPv+15%3A33%3BEf+4%3A6%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/386c0581735f9a59f056e36a850ff657-%23101++-+Exercicio+da+paternidade+-+Fundamentos.mp4)

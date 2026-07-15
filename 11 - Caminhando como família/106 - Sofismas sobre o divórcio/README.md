@@ -1,5 +1,14 @@
 # 106 - Sofismas sobre o divórcio
 
+Esta lição dá continuidade à anterior, e desfaz os sofismas à luz do que a Palavra de Deus ensina sobre o assunto. Em seguida responderemos as principais perguntas que foram feitas na lição passada, buscando aprofundar o ensino. Nesta lição, pretendemos cumprir a segunda e a terceira etapas, falando sobre os sofismas e respondendo às perguntas que nos fizeram na última lição. Qualquer interpretação de Mateus 19.9 que dissolva o matrimônio pela infidelidade de um dos cônjuges, está anulando Lucas 16.18 e Mateus 5.32.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  Textos introdutórios e fundamento da lição**
+Lc 16:18 | 1Co 6:9-10 | Mc 7:1-16 | Dt 24:1 | At 17:30 | 2Co 5:17 | Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=Lc+16%3A18%3B1Co+6%3A9-10%3BMc+7%3A1-16%3BDt+24%3A1%3BAt+17%3A30%3B2Co+5%3A17%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/49bb7f892a449ff65301b2d662f19499-%23106+-+Sofismas+sobre+o+divorcio+-+Fundamentos.mp4)

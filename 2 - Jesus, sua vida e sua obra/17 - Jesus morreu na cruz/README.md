@@ -1,5 +1,29 @@
 # 17 - Jesus morreu na cruz
 
+Nesta décima sétima lição, vamos entender (e rever) porque foi necessária a morte de Jesus. Vamos conferir, à luz das Escrituras, qual a única solução oferecida por Deus como solução do pecado e das consequências trazidas por ele. Deus é perfeitamente santo e perfeitamente justo Todas as pessoas falam, e até os incrédulos sabem, que Jesus morreu na cruz pelos nossos pecados. Mas não há revelação espiritual, de fato, enquanto não entendemos por que foi necessária essa morte.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  Por que Deus exigiu a vida de seu único Filho? Deus é perfeitamente santo e perfeitamente justo**
+Rm 1:18
+
+**👉🏼  Qual a consequência do pecado para a raça humana?**
+Rm 3:10 | Rm 3:23 | Rm 6:23 | Is 53:10
+
+**👉🏼  Como não se render à tremenda expressão de amor dada por Deus?**
+Is 53:5-6 | Is 53:6 | Rm 5:1
+
+**👉🏼  O significado amplo da morte de Jesus As consequências do pecado**
+Rm 1:18 | Rm 6:23 | Ef 2:2-3 | Is 59:2
+
+**👉🏼  O homem perdeu a comunhão com Deus**
+Rm 3:25 | Hb 2:17 | Hb 10:12 | Rm 3:24 | Ef 1:7 | Gl 3:13 | Hb 2:14-15 | At 20:28 | Ap 5:9 | Cl 1:21-22
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=Rm+1%3A18%3BRm+3%3A10%3BRm+3%3A23%3BRm+6%3A23%3BIs+53%3A10%3BIs+53%3A5-6%3BIs+53%3A6%3BRm+5%3A1%3BEf+2%3A2-3%3BIs+59%3A2%3BRm+3%3A25%3BHb+2%3A17%3BHb+10%3A12%3BRm+3%3A24%3BEf+1%3A7%3BGl+3%3A13%3BHb+2%3A14-15%3BAt+20%3A28%3BAp+5%3A9%3BCl+1%3A21-22%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/adadcfbbe064c0725d957f3f3c943eee-%23017+-+JESUS+MORREU+NA+CRUZ+-+Fundamentos.mp4)

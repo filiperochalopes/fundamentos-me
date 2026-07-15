@@ -1,5 +1,26 @@
 # 72 - Os ministérios
 
+No primeiro modelo, como vimos, alguns poucos são responsáveis pela edificação da igreja. Aqui se incluem os pastores, pregadores, doutores e mestres. A igreja senta-se e ouve a doutrina trazida por eles. No segundo modelo, vemos que cada um edifica a si mesmo.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  O funcionamento dos ministérios específicos Na lição anterior do Fundamentos, falamos sobre o sacerdócio de**
+Ef 4:11-13
+
+**👉🏼  O CORPO DE CRISTO É QUE EDIFICA O CORPO DE CRISTO!**
+Ef 4:15,16 | Ef 4:11
+
+**👉🏼  Qual serviço os santos devem desempenhar? Esta é a próxima pergunta que devemos responder: Qual é o serviço**
+At 1:8 | 1Pe 2:9 | Ef 4:15-16 | Ef 4:15,16 | Cl 2:19
+
+**👉🏼  REVISÃO DO CONTEÚDO**
+Ef 4:11-13
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=Ef+4%3A11-13%3BEf+4%3A15%2C16%3BEf+4%3A11%3BAt+1%3A8%3B1Pe+2%3A9%3BEf+4%3A15-16%3BCl+2%3A19%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/2445b2f2d107e85e737bb4811decdea1-%23072+-+Os+ministerios+-+Fundamentos.mp4)

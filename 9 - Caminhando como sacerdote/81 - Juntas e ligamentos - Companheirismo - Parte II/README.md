@@ -1,5 +1,20 @@
 # 81 - Juntas e ligamentos: Companheirismo - Parte II
 
+Na lição anterior, vimos a importância e a necessidade de SEMPRE termos alguém ao nosso lado, um companheiro em nosso serviço ao Senhor. Esses mandamentos podem ser praticados por todos e entre todos, ou seja, todos podem amar, perdoar, confessar pecados, servir, honrar, edificar, consolar, animar a todos, quando houver oportunidade. Contudo, numa congregação com muitos membros, isso ficaria inviável de ser realizado na prática com todos e entre todos. Seria como um cachorro que tem muitos donos, e não tem dono nenhum.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  Principais atitudes (indispensáveis) ao companheiro: 01 Amor**
+Jo 13:34 | 1Co 13:4-5 | Rm 12:10 | Ef 5:21 | Tg 5:16 | Cl 3:12-13
+
+**👉🏼  Principais atividades (indispensáveis) ao companheiro 01 Orar**
+Mt 18:19-20 | Cl 3:16 | Hb 3:12-13 | Gl 5:13
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=Jo+13%3A34%3B1Co+13%3A4-5%3BRm+12%3A10%3BEf+5%3A21%3BTg+5%3A16%3BCl+3%3A12-13%3BMt+18%3A19-20%3BCl+3%3A16%3BHb+3%3A12-13%3BGl+5%3A13%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/cdbe4c8f675079b86340c15b603e73a9-%23081+-+Juntas+e+ligamentos_+Companheirismo+-+Parte+II+-+Fundamentos.mp4)

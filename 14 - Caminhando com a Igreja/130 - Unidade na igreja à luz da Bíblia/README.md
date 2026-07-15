@@ -1,5 +1,23 @@
 # 130 - Unidade na igreja à luz da Bíblia
 
+Compreenderemos melhor o verdadeiro sentido bíblico da unidade e como o tema tem sido relativizado ao longo do tempo. Além disso, veremos que, enquanto a divisão nasceu com Lúcifer, fruto de sua rebelião, a unidade nasceu no coração de Deus. Aprenderemos que, para além das identificações pessoais ou dos interesses em comum, a unidade é um daqueles marcos importantes de Deus para a história. Por isso, deve ser resgatado e identificado, especialmente, os que foram estabelecidos por Jesus e pelos Apóstolos.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  Unidade: marco importante de Deus para a história A unidade é um daqueles marcos importantes de Deus para a**
+Pv 22:28 | Ef 2:13,14
+
+**👉🏼  O chamado divino para refletir a relação entre Jesus e o Pai**
+Jo 17:21-23
+
+**👉🏼  Unidade na fé: comunhão plena na Igreja de Cristo**
+At 4:32 | Ef 4:1-6 | Ef 4:13
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=Pv+22%3A28%3BEf+2%3A13%2C14%3BJo+17%3A21-23%3BAt+4%3A32%3BEf+4%3A1-6%3BEf+4%3A13%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/da5622d9280067cdabebdaa4f77ca9e5-%23130+-+Unidade+na+igreja+a+luz+da+Biblia+-+Fundamentos.mp4)

@@ -1,5 +1,20 @@
 # 58 - Uma família para o Pai
 
+Outras lições virão adiante para ajudar a completar a resposta. Além de entender bem o propósito de Deus, também vamos esclarecer o que não é o propósito de Deus. Existe um erro comum Todos nós já fomos apresentados a essa pergunta e muitos sabem a resposta descrita nas Escrituras. Deus queria uma família de muitos filhos semelhantes a Jesus.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  Qual o propósito de Deus ao criar o homem? Existe um erro comum**
+Ef 1:4 | Ef 1:11 | 1Tm 2:3,4 | 2Pe 3:9 | Jo 3:16
+
+**👉🏼  Qual o propósito de Deus ao criar o homem? Um homem perfeito, uma grande família**
+Gn 1:26 | Gn 1:27,28 | Rm 8:28,29 | Rm 3:12 | Rm 6:23 | Gn 5:3 | Rm 5:12 | Cl 1:27 | 2Co 5:17 | Mt 28:19,20 | 1Jo 2:6
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=Ef+1%3A4%3BEf+1%3A11%3B1Tm+2%3A3%2C4%3B2Pe+3%3A9%3BJo+3%3A16%3BGn+1%3A26%3BGn+1%3A27%2C28%3BRm+8%3A28%2C29%3BRm+3%3A12%3BRm+6%3A23%3BGn+5%3A3%3BRm+5%3A12%3BCl+1%3A27%3B2Co+5%3A17%3BMt+28%3A19%2C20%3B1Jo+2%3A6%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/54dd4c1fd99f0d2d1d84fd89fd1f97e2-%23058+-+Uma+familia+para+o+Pai+-+Fundamentos.mp4)

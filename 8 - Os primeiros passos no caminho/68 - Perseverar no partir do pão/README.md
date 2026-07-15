@@ -1,5 +1,29 @@
 # 68 - Perseverar no partir do pão
 
+Teremos oportunidade de estudar os mais diferentes aspectos que circundam a ceia do Senhor, como seu significado, sua instituição, os elementos que devem ser usados, e aprenderemos que existem instruções claras que o apóstolo Paulo nos dá sobre como devemos proceder ao participar da ceia do Senhor. Os dois textos falam de uma prática diferente da que temos vivido em nossos dias, mas Deus, em sua infinita misericórdia, está nos ajudando a resgatar a importância dessa prática. Pode ter sido perdida, mas está sendo encontrada, valorizada, compreendida e praticada. Falaremos então sobre esse assunto por meio de perguntas e respostas, utilizando textos que irão nos esclarecer e nos ajudar a responder as perguntas.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  Textos introdutórios e fundamento da lição**
+At 2:42 | 1Co 11:20
+
+**👉🏼  Quem estabeleceu o partir do pão / a ceia do Senhor?**
+Lc 22:14-20
+
+**👉🏼  Quais foram os elementos que Jesus usou?**
+Mt 26:29 | Mc 14:25 | Lc 22:18
+
+**👉🏼  Qual a importância que a igreja do primeiro século deu à ceia do Senhor?**
+At 2:42 | At 2:46
+
+**👉🏼  O que Paulo instruiu sobre a ceia do Senhor?**
+1Co 11:20-34
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=At+2%3A42%3B1Co+11%3A20%3BLc+22%3A14-20%3BMt+26%3A29%3BMc+14%3A25%3BLc+22%3A18%3BAt+2%3A46%3B1Co+11%3A20-34%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/885e65317c84484bfabfcbf3cd3dc870-%23068+-+Perseverar+no+partir+do+pao+-+Fundamentos.mp4)

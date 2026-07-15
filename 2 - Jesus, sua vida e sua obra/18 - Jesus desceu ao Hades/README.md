@@ -1,5 +1,20 @@
 # 18 - Jesus desceu ao Hades
 
+Nesta décima oitava lição, vamos aprender o que ocorreu entre a morte e a ressurreição de Jesus (quando ele desceu ao Hades, após morto). As Escrituras relatam que Jesus desceu ao Hades e pregou aos espíritos em prisão. Aqui também vamos entender a diferença entre Hades e inferno, e o significado da palavra Paraíso. A tradução incorreta que aparece em algumas Bíblias pode gerar diversas confusões Há na Bíblia Sagrada diversos textos que falam sobre a morte e a ressurreição de Jesus.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  O que aconteceu entre a morte e a ressurreição de Jesus?**
+Mt 16:18 | Lc 16:23 | At 2:27 | Ap 20:11-14 | Lc 23:43 | 2Co 12:2-4
+
+**👉🏼  Pela graça de Deus, Jesus provou a morte por todos os homens**
+Hb 2:9 | Sl 16:10 | Sl 22:1-8 | Sl 22:9-22 | Ap 1:18
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=Mt+16%3A18%3BLc+16%3A23%3BAt+2%3A27%3BAp+20%3A11-14%3BLc+23%3A43%3B2Co+12%3A2-4%3BHb+2%3A9%3BSl+16%3A10%3BSl+22%3A1-8%3BSl+22%3A9-22%3BAp+1%3A18%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/b36b5b6f8d04a08e8e1b2ac0966582f5-%23018+-+JESUS+DESCEU+AO+HADES+-+Fundamentos.mp4)

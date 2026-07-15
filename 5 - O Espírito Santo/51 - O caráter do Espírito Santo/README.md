@@ -1,5 +1,23 @@
 # 51 - O caráter do Espírito Santo
 
+Nesta quinquagésima primeira lição do Fundamentos, falaremos sobre o caráter do Espírito Santo (suas características e peculiaridades) e as maneiras de sua manifestação. Desde o Velho Testamento, o Espírito Santo está presente para anunciar a vinda de Jesus, o Messias. E ao longo da vida de Jesus na terra como homem, ele precisou do auxílio e do poder do Espírito Santo para realizar a grande obra que todos nós conhecemos. Além disso, os corações incrédulos só são alcançados pela ação poderosa dele.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  O Espírito Santo e Jesus**
+Mt 1:18 | At 10:38 | Rm 8:11 | Jo 15:26 | Jo 16:14
+
+**👉🏼  O Espírito Santo e o mundo**
+1Co 2:14 | Jo 16:8
+
+**👉🏼  O Espírito Santo e o pecado 01 É o alvo primeiramente atingido pelo pecado do cristão. Sim,**
+At 5:3 | At 5:9 | Ef 4:29-31 | Hb 10:26-31 | Mc 3:20-30
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=Mt+1%3A18%3BAt+10%3A38%3BRm+8%3A11%3BJo+15%3A26%3BJo+16%3A14%3B1Co+2%3A14%3BJo+16%3A8%3BAt+5%3A3%3BAt+5%3A9%3BEf+4%3A29-31%3BHb+10%3A26-31%3BMc+3%3A20-30%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/85dcc8b21812fbb62a081c42702241e7-%23051+-+O+CARATER+DO+ESPIRITO+SANTO++-+Fundamentos.mp4)

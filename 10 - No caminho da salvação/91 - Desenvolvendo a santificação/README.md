@@ -1,5 +1,20 @@
 # 91 - Desenvolvendo a santificação
 
+Nesta nonagésima primeira lição do Fundamentos, daremos sequência ao desenvolvimento da salvação - como nas lições anteriores - com foco na santificação. Também entenderemos como alcançar uma vida em santidade, longe da prática do pecado. . Quando justificados, fomos considerados e declarados justos pelo Senhor. Trata-se de uma ação, atuação de Deus, na qual somos tornados justos.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  Qual é a parte que nos cabe no desenvolvimento da santificação?**
+Rm 3:23-25 | Rm 6:22 | Rm 8:11
+
+**👉🏼  Como entender e viver essas realidades? Algumas das perguntas comuns sobre como viver essa realidade da**
+Rm 7:15-19 | Rm 7:20 | Rm 7:24 | Rm 7:25 | Rm 8:4 | Rm 8:4-10
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=Rm+3%3A23-25%3BRm+6%3A22%3BRm+8%3A11%3BRm+7%3A15-19%3BRm+7%3A20%3BRm+7%3A24%3BRm+7%3A25%3BRm+8%3A4%3BRm+8%3A4-10%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/b1342f2272dbbaea96110507114c0d13-%23091+-+Desenvolvendo+a+santificacao+-+Fundamentos.mp4)

@@ -1,5 +1,17 @@
 # 111 - Conselhos aos noivos
 
+Nesta centésima décima primeira lição do Fundamentos, daremos continuidade ao tema compromisso para o casamento, com foco em conselhos práticos aos noivos. Vamos sugerir alguns assuntos que devem ser definidos para aqueles que querem se casar. É importante que esses assuntos sejam conversados e encaminhados antes do casamento, durante a caminhada de relacionamento. Esses assuntos, se bem tratados, podem evitar problemas e conflitos no casamento.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  Textos introdutórios e fundamento da lição**
+Cl 3:16
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=Cl+3%3A16%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/1f91d2b1a30e729dbde8354ca923bfd2-%23111+-+Conselhos+aos+noivos+-+Fundamentos.mp4)

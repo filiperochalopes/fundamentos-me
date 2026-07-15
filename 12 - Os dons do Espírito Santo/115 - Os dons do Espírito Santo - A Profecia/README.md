@@ -1,5 +1,29 @@
 # 115 - Os dons do Espírito Santo - A Profecia
 
+Aprenderemos que o dom da profecia é para todos, porém só quem ama deve profetizar. No capítulo 14, ele inicia estimulando a buscar o dom de profetizar. Essa maneira de ver se fundamenta, principalmente, no fato de Paulo referir que, sem o amor, os dons não têm valor. Porém, é importante que compreendamos que o ápice está na aplicação dos dons em função desse amor.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  Textos introdutórios e fundamento da lição**
+1Co 12:31 | 1Co 14:1
+
+**👉🏼  O que a profecia produz? “Mas o que profetiza fala aos homens, edificando, exortando e**
+1Co 14:3 | 1Co 14:5
+
+**👉🏼  Qual é a fonte da profecia?**
+1Ts 5:20
+
+**👉🏼  Como profetizar?**
+Mt 7:7
+
+**👉🏼  O que fazer com a profecia?**
+1Co 14:31
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=1Co+12%3A31%3B1Co+14%3A1%3B1Co+14%3A3%3B1Co+14%3A5%3B1Ts+5%3A20%3BMt+7%3A7%3B1Co+14%3A31%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/6e25758b7096b2ccdd4c559c5cbbdc83-%23115+-+Os+dons+do+Espirito+Santo_+A+Profecia+-+Fundamentos.mp4)

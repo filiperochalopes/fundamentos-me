@@ -1,5 +1,14 @@
 # 97 - O padrão de Deus para o marido
 
+Veremos que Deus deixou mandamentos claros para o marido obedecer e estabeleceu um padrão no qual esses mandamentos devem ser cumpridos. Seremos estimulados a avaliar a forma como temos praticado essas verdades e estimulados a edificar a nossa casa sobre a rocha, sempre na dependência do Espírito Santo. Precisamos assumir uma posição clara, segundo a Escritura que é inspirada pelo Senhor e útil para nos ensinar, repreender, corrigir, e para nos educar na justiça a fim de que sejamos perfeitos e perfeitamente habilitados em toda boa obra. O que vamos comunicar aqui não traz nenhuma novidade, pois diz respeito a toda a doutrina e a todo padrão que Deus já nos deu.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=Ef+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/53723e29021f12274051dbcf6a1c7603-%23097+-+O+padrao+de+Deus+para+o+marido+-+Fundamentos.mp4)

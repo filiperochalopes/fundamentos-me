@@ -33,12 +33,27 @@ def markdown_link(label: str, url: str | None) -> str | None:
     return f"[{label}]({url})" if url else None
 
 
-def lesson_readme(lesson: dict, pdf_name: str) -> str:
+def preserved_enrichment(existing_readme: str | None) -> str | None:
+    if not existing_readme or "## Referências e Textos Bíblicos" not in existing_readme:
+        return None
+    lines = existing_readme.splitlines()
+    materials = next((i for i, line in enumerate(lines) if line == "## Materiais"), None)
+    if materials is None:
+        return None
+    content = "\n".join(lines[1:materials]).strip()
+    return content or None
+
+
+def lesson_readme(lesson: dict, pdf_name: str, existing_readme: str | None = None) -> str:
     number = lesson["number"]
     title = lesson["title"]
     links = lesson["links"]
     video = links["video"]
-    lines = [f"# {number} - {title}", "", "## Materiais", ""]
+    lines = [f"# {number} - {title}", ""]
+    enrichment = preserved_enrichment(existing_readme)
+    if enrichment:
+        lines.extend([enrichment, ""])
+    lines.extend(["## Materiais", ""])
 
     video_items = [
         ("Vídeo principal", video.get("primary")),
@@ -131,8 +146,12 @@ def build_archive(catalog_path: Path, root: Path, workers: int) -> None:
             lesson_dir.mkdir(parents=True, exist_ok=True)
 
             pdf_name = f"{lesson_number} - {safe_component(lesson['title'])}.pdf"
-            readme = lesson_readme(lesson, pdf_name)
-            (lesson_dir / "README.md").write_text(readme, encoding="utf-8")
+            readme_path = lesson_dir / "README.md"
+            existing_readme = (
+                readme_path.read_text(encoding="utf-8") if readme_path.exists() else None
+            )
+            readme = lesson_readme(lesson, pdf_name, existing_readme)
+            readme_path.write_text(readme, encoding="utf-8")
             readme_count += 1
 
             pdf_url = lesson["links"].get("transcript_pdf")

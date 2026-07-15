@@ -1,5 +1,23 @@
 # 70 - Proclamar o evangelho
 
+Teremos a oportunidade de examinar nossa prática e avaliar se estamos fazendo como Jesus ensinou. Seremos orientados sobre a proclamação por meio de quatro ações que visam descomplicar, à luz da Escritura, como devemos proceder, sempre na dependência do Espírito Santo. Algumas práticas que fomos agregando podem ser colocadas, de uma forma didática, em quatro ações. Alguns de nós ficam perdidos com muitas informações e acabam sem proclamar, pois têm ideias mescladas, com chamado, missões e lugares específicos.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  Textos introdutórios e fundamento da lição**
+Mt 28:18-20 | Mc 16:15-16
+
+**👉🏼  EU, AQUI, AGORA**
+1Pe 2:9 | 2Co 5:18-20
+
+**👉🏼  OIKOS (os relacionamentos)**
+At 10:24 | At 16:15 | At 16:31-33
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=Mt+28%3A18-20%3BMc+16%3A15-16%3B1Pe+2%3A9%3B2Co+5%3A18-20%3BAt+10%3A24%3BAt+16%3A15%3BAt+16%3A31-33%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/b8c25eeff0e687134623a71dc0717034-%23070+-+Proclamar+o+evangelho+-+Fundamentos.mp4)

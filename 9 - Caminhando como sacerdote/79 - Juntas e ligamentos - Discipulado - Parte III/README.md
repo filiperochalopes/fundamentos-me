@@ -1,5 +1,17 @@
 # 79 - Juntas e ligamentos: Discipulado - Parte III
 
+Vale lembrar que o discipulado começa aos pés de Jesus e tem como objetivo o envio à sua obra. É preciso ser corretamente instruído para crescer e demonstrar que não somos mais meninos na fé. Como dissemos em lições anteriores, o discipulado não deve ser um relacionamento com um fim em si mesmo. Ele não pode ser um relacionamento que não leve a lugar nenhum.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  As juntas e ligamentos devem nos conduzir ao crescimento na fé**
+Lc 6:40 | Fp 2:12-13 | Hb 5:11-14
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=Lc+6%3A40%3BFp+2%3A12-13%3BHb+5%3A11-14%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/885f3f323af2c71bcfdb3363d25ebbb0-%23079+-+Juntas+e+ligamentos_+Discipulado+-+Parte+III+-+Fundamentos.mp4)

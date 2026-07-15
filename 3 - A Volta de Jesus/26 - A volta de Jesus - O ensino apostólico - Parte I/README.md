@@ -1,5 +1,20 @@
 # 26 - A volta de Jesus: O ensino apostólico - Parte I
 
+A volta de Jesus O ensino apostólico Parte I Nesta vigésima sexta lição, vamos estudar sobre a volta de Jesus na perspectiva dos apóstolos. Eles sabiam que todos os discípulos precisavam entender e trazer esse assunto no coração e o ensinaram de forma clara e direta. De uma forma ou de outra, os apóstolos sabiam que todos os discípulos precisavam entender e trazer esse assunto no coração. O ensino foi trazido de maneira simples e direta, assim como Jesus o fez.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  Tempos difíceis**
+2Tm 3:1-5 | Mt 24:12
+
+**👉🏼  A apostasia e a revelação do homem da iniquidade**
+2Ts 2:1-4 | 2Ts 2:4 | Dn 9:27;11;31 | 2Ts 2:9 | 2Ts 2:10-11
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+2Tm 3:1-5 | 2Ts 2:1-4 | Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=2Tm+3%3A1-5%3BMt+24%3A12%3B2Ts+2%3A1-4%3B2Ts+2%3A4%3BDn+9%3A27%3B11%3B31%3B2Ts+2%3A9%3B2Ts+2%3A10-11%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/f964727b080c3b24ea78dcdeac440ad6-%23026+-+A+VOLTA+DE+JESUS_+O+ENSINO+APOST%C3%83%C2%93LICO+-+PARTE+I+-+Fundamentos.mp4)

@@ -1,5 +1,17 @@
 # 60 - Um Edifício para o Espírito Santo
 
+Nesta sexagésima lição do Fundamentos, vamos concluir este ciclo. Nas lições anteriores, falamos sobre uma família para o Pai e sobre uma noiva para o Filho. Porque o Pai quer uma família e o Filho quer uma noiva. A fim de concluir este ensino, que nos ajudou a entender de forma mais ampla O Propósito Eterno de Deus, hoje aprenderemos que o Espírito Santo quer um edifício.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  Um edifício para o Espírito Santo - Porque o Espírito Santo quer um edifício**
+1Co 3:9,1 | Gn 28:10-19 | Ez 36:26,27 | 1Pe 2:9 | 1Co 15:33 | Ef 5:21 | Ef 2:20-22 | Cl 3:14 | 1Pe 2:5 | At 17:24 | 1Tm 3:15 | Jo 1:14 | Ap 21:3 | 2Co 5:1,2
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=1Co+3%3A9%2C1%3BGn+28%3A10-19%3BEz+36%3A26%2C27%3B1Pe+2%3A9%3B1Co+15%3A33%3BEf+5%3A21%3BEf+2%3A20-22%3BCl+3%3A14%3B1Pe+2%3A5%3BAt+17%3A24%3B1Tm+3%3A15%3BJo+1%3A14%3BAp+21%3A3%3B2Co+5%3A1%2C2%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/2e2b52d6d88474f32d4f2706edec91a7-%23060+-+Um+edificio+para+o+Espirito+Santo+-+Fundamentos.mp4)

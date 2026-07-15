@@ -1,5 +1,23 @@
 # 63 - Confessar pecados 
 
+Veremos que a confissão é um instrumento de cura criado por Deus para nos deixar saudáveis e livres do pecado. Veremos que não há como esconder pecados de Deus, e como a confissão, fruto do arrependimento, torna livre a nossa comunhão com o Pai. Caim - Gênesis 4.8-10 - escondeu Acã - Josué 7.1,10-11 Davi - 2 Samuel 11,12 - escondeu a situação com Bate-Seba. Ananias e Safira - Atos 5.1-5 - esconderam as intenções.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  Escondendo o pecado**
+Sl 32:3 | Pv 3:5-8 | Jó 31:33-34
+
+**👉🏼  Tratando o pecado superficialmente**
+2Co 5:10 | Hb 4:13 | 1Co 10:12-13 | Hb 2:14-18 | Hb 4:13-16
+
+**👉🏼  Confessando os nossos pecados**
+Ef 5:8-14 | Jo 3:19-21 | Mt 5:23-24 | Tg 5:16 | 1Jo 1:7 | Pv 28:13
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=Sl+32%3A3%3BPv+3%3A5-8%3BJ%C3%B3+31%3A33-34%3B2Co+5%3A10%3BHb+4%3A13%3B1Co+10%3A12-13%3BHb+2%3A14-18%3BHb+4%3A13-16%3BEf+5%3A8-14%3BJo+3%3A19-21%3BMt+5%3A23-24%3BTg+5%3A16%3B1Jo+1%3A7%3BPv+28%3A13%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/f63a70d3c305c1bff91e03f067ccaf3d-%23063+-+Confessar+pecados+-+Fundamentos.mp4)

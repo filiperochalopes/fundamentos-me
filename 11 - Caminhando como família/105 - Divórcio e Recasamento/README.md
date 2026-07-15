@@ -1,5 +1,17 @@
 # 105 - Divórcio e Recasamento 
 
+Examinaremos, cuidadosamente, o que a Palavra de Deus ensina sobre o tema. Aprenderemos o que estava no coração de Deus, desde a criação, sobre o assunto e o que Jesus reafirma, se posicionando de acordo com a vontade do Pai. Ao final, estaremos aptos a responder aos principais questionamentos sobre este tema e poderemos esclarecer a muitos sobre as práticas equivocadas e distantes da vontade de Deus. Inicialmente, veremos o que está no coração de Deus sobre o repúdio e a carta de divórcio, que era forma de exercer o repúdio.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  Textos introdutórios e fundamento da lição**
+Mc 10:12
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=Mc+10%3A12%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/774a97a8fbe6e1e813847717a3a8a969-%23105+-+Divorcio+e+Recasamento+-+Fundamentos.mp4)

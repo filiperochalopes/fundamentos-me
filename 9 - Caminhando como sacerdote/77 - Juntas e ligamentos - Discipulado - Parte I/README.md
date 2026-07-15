@@ -1,5 +1,17 @@
 # 77 - Juntas e ligamentos: Discipulado - Parte I
 
+Nela apresentaremos cinco erros que podem ser cometidos por quem pratica este mandamento do Senhor e precisam ser observados e corrigidos. Aprenderemos que o mestre Jesus é o único que possui toda a sabedoria, e foi quem desenvolveu, na sua prática de fazer discípulos, a metodologia perfeita, a única que devemos imitar. Em Jesus podemos solucionar os problemas que serão elencados bem como evitar que ocorram. Queremos salientar que daremos atenção aos erros cometidos por nós.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  Textos introdutórios e fundamento da lição**
+Lc 9:58 | Lc 9:60 | Lc 9:62 | Jo 6:26
+
+**👉🏼  REVISÃO DO CONTEÚDO**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=Lc+9%3A58%3BLc+9%3A60%3BLc+9%3A62%3BJo+6%3A26%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/4190b55de81380d4c9514186ea110e6f-%23077+-+Juntas+e+ligamentos_+Discipulado+-+Parte+I+-+Fundamentos.mp4)

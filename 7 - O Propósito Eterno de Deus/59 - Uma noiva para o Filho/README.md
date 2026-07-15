@@ -1,5 +1,23 @@
 # 59 -  Uma noiva para o Filho
 
+Nossa intenção é ajudar a igreja a direcionar o coração para esta verdade e expectativa. Na lição anterior, falamos sobre o que Deus queria quando criou o homem. Esclarecemos o equívoco, que muitas pessoas pensam, de que o propósito de Deus é salvar o homem do pecado e da condenação eterna. Se, antes da fundação do mundo, Deus tivesse o propósito de salvar o homem, então Ele seria cúmplice do pecado, porque necessitaria de que o homem pecasse para cumprir o seu propósito.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  O Pai quer uma família; o filho quer uma noiva**
+Jo 3:29 | Mt 22:2 | Mt 25:1-13
+
+**👉🏼  A questão não é se você crê na vinda de Jesus, mas se você ama a vinda dele**
+Mt 26:29 | Jo 17:24
+
+**👉🏼  Qual é a sua expectativa? Para o que você vive? Há outro ingrediente que vai além da expectativa do noivo**
+2Co 11:2 | Ap 19:6-8
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=Jo+3%3A29%3BMt+22%3A2%3BMt+25%3A1-13%3BMt+26%3A29%3BJo+17%3A24%3B2Co+11%3A2%3BAp+19%3A6-8%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/f094e228bd6d12338a5fa75640523617-%23059+-+Uma+noiva+para+o+Filho+-+Fundamentos.mp4)

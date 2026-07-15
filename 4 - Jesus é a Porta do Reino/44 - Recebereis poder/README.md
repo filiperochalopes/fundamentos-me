@@ -1,5 +1,20 @@
 # 44 - Recebereis poder
 
+Nesta quadragésima quarta lição, vamos falar sobre a habitação do Espírito Santo e o Batismo com o Espírito Santo. Quando pregamos, nós precisamos conduzir a pessoa ao arrependimento, ao batismo em Cristo e ao recebimento do dom do Espírito Santo. Em geral, nós falamos muito sobre o arrependimento, mostramos o preço, falamos da rebelião e que a pessoa precisa se sujeitar ao Senhor, pois ela é independente, e damos muita ênfase para que a pessoa entenda e se arrependa. Depois de proclamar sobre os pontos anteriores, chegou a hora de gerarmos fé na pessoa para receber o dom do Espírito Santo, não podemos falar pouco.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  Textos introdutórios e fundamento da lição**
+At 2:14-39 | Mt 3:16 | Mc 1:9-10 | Lc 3:21-22
+
+**👉🏼  ALGUMAS OBSERVAÇÕES**
+Lc 11:9-13
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=At+2%3A14-39%3BMt+3%3A16%3BMc+1%3A9-10%3BLc+3%3A21-22%3BLc+11%3A9-13%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/769f657e8e32473567a6fbae37094d76-%23044+-+RECEBEREIS+PODER+-+Fundamentos.mp4)

@@ -1,5 +1,26 @@
 # 138 - Relacionamento entre irmãos - Estar juntos e a percepção
 
+Este estudo se divide em duas interpretações complementares e aprofunda-se nos aspectos práticos de exercer esse amor, conforme instruções bíblicas sobre como tratar com os fracos, desanimados e insubmissos. A mensagem desta lição se revela essencial para nosso caminhar diário como igreja, no qual não apenas conhecemos a Deus, mas percebemos as necessidades dos nossos irmãos. Quanto mais entendemos Sua vontade e Seus caminhos, mais somos capacitados a amar. Ou seja, no conhecimento de Deus, quanto mais a gente conhecer a Deus, mais nós vamos amar uns aos outros.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  Textos introdutórios e fundamento da lição**
+Fp 1:9
+
+**👉🏼  Por que amar mais e mais? A mensagem desta lição se revela essencial para nosso caminhar**
+Fp 1:9 | Cl 1:9 | 1Ts 5:14
+
+**👉🏼  Longanimidade e amor divino**
+1Ts 5:14 | Fp 1:9 | Hb 5:14
+
+**👉🏼  REVISÃO DO CONTEÚDO**
+Fp 1:9
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=Fp+1%3A9%3BCl+1%3A9%3B1Ts+5%3A14%3BHb+5%3A14%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/c4ee9f5f3b69a5b7770569b5afe7f1f8-%23138+-+Relacionamento+entre+irmaos_+Estar+juntos+e+a+percepcao+-+Fundamentos.mp4)

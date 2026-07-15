@@ -1,5 +1,23 @@
 # 112 - Os dons do Espírito Santo
 
+Veremos que o Espírito realiza todas essas coisas, distribuindo os dons como Ele quer. Nos dias atuais há muitas escolas teológicas que não apenas ignoram, mas combatem o uso dos dons. São chamadas de Cessacionistas, advogam que os dons cessaram. Como os dons teriam sido necessários no início e nós não precisaríamos mais!
+
+## Referências e Textos Bíblicos
+
+**👉🏼  A importância dos dons**
+1Co 12:1 | 2Tm 3:16 | 1Co 12:7
+
+**👉🏼  A variedade dos dons**
+1Co 12:4 | 1Co 12:8-10
+
+**👉🏼  A busca dos dons**
+1Co 12:31 | 1Co 14:1
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=1Co+12%3A1%3B2Tm+3%3A16%3B1Co+12%3A7%3B1Co+12%3A4%3B1Co+12%3A8-10%3B1Co+12%3A31%3B1Co+14%3A1%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/38a8efb1296f7f56caae3c984f4da25c-%23112+-+Os+dons+do+Espirito+Santo+-+Fundamentos.mp4)

@@ -1,5 +1,14 @@
 # 88 - Salvação em Cristo
 
+Aqui teremos uma visão panorâmica dos temas que serão detalhados nas próximas lições e aprenderemos sobre os principais problemas do pecado - a condenação, a escravidão e a habitação. Veremos que para os três problemas são apresentadas três soluções - a justificação, a santificação e a glorificação. E Cristo é quem proporciona a solução, pois a salvação só é possível nele. Alguém pode estranhar e se perguntar se, depois de termos falado tanto, ainda teria mais sobre Jesus.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=Ef+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/88428de0f2abcbdf525b99b4bd219325-%23088+-+Salvacao+em+Cristo+-+Fundamentos.mp4)

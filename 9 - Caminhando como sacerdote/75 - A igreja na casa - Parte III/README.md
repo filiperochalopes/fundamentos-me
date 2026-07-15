@@ -1,5 +1,23 @@
 # 75 - A igreja na casa - Parte III
 
+Igreja na casa - Parte III Nesta septuagésima quinta lição do Fundamentos, daremos sequência ao tema do encontro da igreja nas casas, expandindo o ensino. O foco desta lição é mostrar que a igreja na casa é também um ambiente para a formação do serviço, da cooperação e do crescimento dos discípulos. E que a reunião nas casas não pode ser um fim em si mesmo. Seu ensino expôs um desvio singular no conceito inicialmente ensinado e vivido pelos apóstolos e discípulos do primeiro século.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  Igreja na casa - a menor expressão visível da igreja na terra**
+Mt 28:18-20
+
+**👉🏼  Segunda parte, que é tão importante quanto a primeira**
+Ef 4:12-13 | 2Tm 3:16-17
+
+**👉🏼  Como podemos cooperar**
+2Tm 2:1-2
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=Mt+28%3A18-20%3BEf+4%3A12-13%3B2Tm+3%3A16-17%3B2Tm+2%3A1-2%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/cb22e4a28a1312b103c1b5ca521bf96e-%23075+-+A+igreja+na+casa+-+Parte+III+-+Fundamentos.mp4)

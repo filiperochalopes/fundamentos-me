@@ -1,5 +1,17 @@
 # 69 - Perseverar na comunhão
 
+Seremos lembrados que, na atualidade, Deus e a sua Palavra não têm recebido o valor que lhes é devido. Os homens procuram prazer em lugares que os afastam de Deus, e que mesmo alguns cristãos têm perdido a fé. Falaremos um pouco sobre o processo de distanciamento de Deus e seremos incentivados a buscar a comunhão uns com os outros, para permanecermos na fé e no amor. Dias em que o amor esfriaria devido à multiplicação da iniquidade.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  Textos introdutórios e fundamento da lição**
+At 2:42 | At 2:44 | At 2:46 | 1Tessalonicenses 5:19 | 2Tm 3:1-5 | Hb 10:24-25 | Hb 3:13 | Cl 3:16 | 1Ts 5:11 | 1Co 12:25 | 1Coríntios 10:16 | Ef 4:29-30 | Sl 19:14 | Fp 4:8
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=At+2%3A42%3BAt+2%3A44%3BAt+2%3A46%3B1Tessalonicenses+5%3A19%3B2Tm+3%3A1-5%3BHb+10%3A24-25%3BHb+3%3A13%3BCl+3%3A16%3B1Ts+5%3A11%3B1Co+12%3A25%3B1Cor%C3%ADntios+10%3A16%3BEf+4%3A29-30%3BSl+19%3A14%3BFp+4%3A8%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/cb722f0a007a6017c2b31597a0ba013e-%23069+-+Perseverar+na+comunhao+-+Fundamentos.mp4)

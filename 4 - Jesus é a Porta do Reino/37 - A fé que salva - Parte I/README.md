@@ -1,5 +1,26 @@
 # 37 - A fé que salva - Parte I
 
+Nesta trigésima sétima lição do Fundamentos, vamos falar sobre a fé que salva, quais são suas características e como ela deve se manifestar. É importante entender sobre a fé que salva e conhecer alguns relatos existentes na Bíblia. Isso está alinhado à necessidade de acrescentar alguns tópicos ao pacote de ensino que cada discípulo precisa receber e ser formado. Tanto que foram batizadas quase três mil pessoas naquele mesmo dia.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  Textos introdutórios e fundamento da lição**
+At 2:37
+
+**👉🏼  O que é fé**
+Hb 11:6
+
+**👉🏼  Cinco aspectos de uma fé que salva A fé em fatos**
+Rm 10:17 | Tg 2:19 | Lc 18:35-42 | At 2:21 | Rm 10:13-14 | Rm 10:14 | Jo 4:29 | Mt 10:32-33
+
+**👉🏼  Quarto aspecto: Fé prática**
+Tg 2:14 | Ef 2:8 | Tg 2:20-22 | Tg 2:25
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=At+2%3A37%3BHb+11%3A6%3BRm+10%3A17%3BTg+2%3A19%3BLc+18%3A35-42%3BAt+2%3A21%3BRm+10%3A13-14%3BRm+10%3A14%3BJo+4%3A29%3BMt+10%3A32-33%3BTg+2%3A14%3BEf+2%3A8%3BTg+2%3A20-22%3BTg+2%3A25%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/180f32fd6216eb59f32a8275d0276f1b-%23037+-+A+FE+QUE+SALVA+-+PARTE+I+-+Fundamentos.mp4)

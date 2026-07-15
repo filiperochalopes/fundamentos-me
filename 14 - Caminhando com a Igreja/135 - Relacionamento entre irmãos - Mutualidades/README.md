@@ -1,5 +1,17 @@
 # 135 - Relacionamento entre irmãos - Mutualidades
 
+Neste estudo teremos a oportunidade de compreender, à luz da Palavra de Deus, o que deve fundamentar os relacionamentos na igreja. à prática do convite à comunhão. Veremos que deve haver reciprocidade e mutualidade nos relacionamentos, para cumprirmos os mandamentos de Cristo. Para além da aquisição de um conhecimento sobre o tema, este estudo é um desafio à prática do relacionamento, do estar juntos. Juntos, é possível aprender como Deus quer que seja a família projetada por Ele, quais seus termos e desígnios.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  A prática da Koinonia: um desafio ao nosso egoísmo O estudo sobre relacionamento entre irmãos deve ter uma**
+At 2:42 | Lc 6:31 | Rm 12:21 | Jo 13:34 | Rm 12:10;13:8 | Rm 15:7 | 2Co 13:12 | 1Co 12:25 | Ef 5:21 | Cl 3:13 | Rm 15:1 | Tg 5:15 | Ef 4:32 | Rm 14:13 | Tg 5:9 | Tg 4:11 | Gl 5:15 | Gl 5:26 | Cl 3:9 | Tg 5:16 | 1Ts 5:11 | Cl 3:16 | Rm 15:14 | Gl 5:13 | Gl 6:2 | 1Pe 4:9 | Rm 12:15 | Rm 12:10 | Rm 12:16 | Jo 13:14
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=At+2%3A42%3BLc+6%3A31%3BRm+12%3A21%3BJo+13%3A34%3BRm+12%3A10%3B13%3A8%3BRm+15%3A7%3B2Co+13%3A12%3B1Co+12%3A25%3BEf+5%3A21%3BCl+3%3A13%3BRm+15%3A1%3BTg+5%3A15%3BEf+4%3A32%3BRm+14%3A13%3BTg+5%3A9%3BTg+4%3A11%3BGl+5%3A15%3BGl+5%3A26%3BCl+3%3A9%3BTg+5%3A16%3B1Ts+5%3A11%3BCl+3%3A16%3BRm+15%3A14%3BGl+5%3A13%3BGl+6%3A2%3B1Pe+4%3A9%3BRm+12%3A15%3BRm+12%3A10%3BRm+12%3A16%3BJo+13%3A14%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/9152f59caaa1b33f1a2ac896faa21548-%23135+-+Relacionamento+entre+irmaos_+Mutualidades+-+Fundamentos.mp4)

@@ -1,5 +1,14 @@
 # 90 - Equívocos sobre a salvação
 
+Nesta nonagésima lição do Fundamentos, aprenderemos sobre os dois principais desvios acerca da salvação. O primeiro deles afirma que a salvação vem pelas obras da Lei. Assim, o cristão que faz boas obras tem mérito diante de Deus. Veremos que os dois equívocos podem ser combatidos com a Palavra que demonstra amplamente que a justificação, a santificação e a glorificação só podem ser obtidas pela fé, e que a fé sem obras é morta.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=Ef+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/1a60f3829315520df470a8901db2c2e0-%23090+-+Equivocos+sobre+a+salvacao+-+Fundamentos.mp4)

@@ -1,5 +1,20 @@
 # 22 - Jesus após a exaltação 
 
+Nossa atenção estará voltada para o que acontece desde que ele foi exaltado e antes do seu retorno. Como declarado por Pedro ao ser exaltado, Jesus derrama o Espírito Santo. No texto de João, o próprio Jesus diz que o Espírito Santo seria derramado sobre os que cressem nele. Quem crer em mim, como diz a Escritura, do seu interior fluirão rios de água viva.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  Qual foi o primeiro ato de Cristo após ser exaltado?**
+Jo 7:38-39 | Jo 15:26 | Jo 16:13-14 | Jo 14:16-18
+
+**👉🏼  Jesus nos defende e nos livra das acusações de Satanás**
+Rm 8:33-34
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=Jo+7%3A38-39%3BJo+15%3A26%3BJo+16%3A13-14%3BJo+14%3A16-18%3BRm+8%3A33-34%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/40c095b9292893a8b43abab270021f32-%23022+-+JESUS+AP%C3%93S+A+EXALTA%C3%87%C3%83O+-+Fundamentos.mp4)

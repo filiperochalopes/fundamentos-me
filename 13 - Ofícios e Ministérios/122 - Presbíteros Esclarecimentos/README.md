@@ -1,5 +1,14 @@
 # 122 - Presbíteros Esclarecimentos 
 
+Aprenderemos um pouco mais sobre a nossa história e como temos feito pequenos ajustes nessa temática, na nossa prática como igreja. Veremos que as Escrituras reconhecem que existem homens com graça para pastorar, sem que sejam presbíteros. A primeira afirmação que é importante fazer aqui, quanto a nossa prática, é que ela sempre esteve baseada no Capítulo 20 de Atos. Neste capítulo, Paulo estava em Mileto, uma das paradas dele na viagem a Jerusalém, e manda chamar os presbíteros de Éfeso, mesmo sendo cidades próximas.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  Textos introdutórios e fundamento da lição**
+At 20:28 | 1Pe 5:1-3 | Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=At+20%3A28%3B1Pe+5%3A1-3%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/66660a1aad36b76017766150a0d7136e-%23122+-+Presbiteros+Esclarecimentos+-+Fundamentos.mp4)

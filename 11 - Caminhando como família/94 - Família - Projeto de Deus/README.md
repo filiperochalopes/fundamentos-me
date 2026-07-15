@@ -1,5 +1,23 @@
 # 94 - Família: Projeto de Deus 
 
+Infelizmente, parte da igreja não consegue compreender isso e acaba dando outro sentido à família. Nesta lição, ficará claro que a família foi criada com o propósito de cooperar com Deus. É por meio dela que se formaram os povos e nações que conhecemos e chegaram até a nossa geração. Exatamente por isso, quando existem famílias desajustadas, toda a sociedade fica desajustada.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  Alguns objetivos errados**
+Rm 8:28-29 | Rm 8:29 | Rm 3:12 | Rm 3:23 | Rm 5:17-18
+
+**👉🏼  Na criação de filhos para Deus Ao criar filhos, estamos cuidando daqueles que Deus quer adotar**
+1Co 7:32-33
+
+**👉🏼  Como base para a multiplicação e edificação da igreja**
+1Co 8:6 | Rm 11:36
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=Rm+8%3A28-29%3BRm+8%3A29%3BRm+3%3A12%3BRm+3%3A23%3BRm+5%3A17-18%3B1Co+7%3A32-33%3B1Co+8%3A6%3BRm+11%3A36%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/9fe459ad4308635640af6ab79ffeeb30-%23094+-+Familia_+Projeto+de+Deus+-+Fundamentos.mp4)

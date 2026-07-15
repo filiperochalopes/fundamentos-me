@@ -1,5 +1,20 @@
 # 113 - Os dons do Espírito Santo - Línguas e interpretação
 
+Aprenderemos que esses dons foram dados à Igreja, e que o dom de línguas, sem interpretação, é o único que é para a edificação pessoal, por isso devemos buscá-lo. Em primeiro lugar, ao ler o Velho Testamento, é possível ver que a maioria desses dons mencionados em Coríntios se manifestaram. Porém, se atentarmos bem, perceberemos que a variedade de línguas não é mencionada. Não havia a manifestação das línguas nem, por consequência, a capacidade para interpretá-las.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  O dom de línguas**
+Mc 16:17 | 1Co 12:8-10 | 1Co 14:4 | 1Co 14:5 | 1Co 12:29-30 | 1Co 14:21-22 | At 2:8-11 | 1Co 14:2 | 1Co 14:14-15
+
+**👉🏼  O dom de interpretação de línguas Sobre o dom de interpretação de línguas, a primeira coisa que**
+1Co 14:2 | 1Co 14:5 | 1Co 14:27-28
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+1Co 14:4-5 | Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=Mc+16%3A17%3B1Co+12%3A8-10%3B1Co+14%3A4%3B1Co+14%3A5%3B1Co+12%3A29-30%3B1Co+14%3A21-22%3BAt+2%3A8-11%3B1Co+14%3A2%3B1Co+14%3A14-15%3B1Co+14%3A27-28%3B1Co+14%3A4-5%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/e3179a2606b1f412cd5b0e491d950de1-%23113+-+Os+dons+do+Espirito+Santo_+linguas+e+interpretacao+-+Fundamentos.mp4)

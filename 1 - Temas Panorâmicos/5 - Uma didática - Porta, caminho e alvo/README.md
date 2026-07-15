@@ -1,5 +1,17 @@
 # 5 - Uma didática: Porta, caminho e alvo
 
+Esta lição é a última abordagem panorâmica do ensino geral. Logicamente, ao longo dos anos, o Senhor foi agregando conhecimento bíblico, entendimento e revelação sobre cada um destes pontos. Ainda assim, decidimos manter a mesma estrutura didática, resumida a seguir. Cremos que assim como a igreja iniciou com os elementos de ensino encontrados em Atos 2, a vida de um discípulo também deve começar assim.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  A porta (At 2:37 e 38) Fé; Contrição e convicção de pecados;**
+At 2:37
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=At+2%3A37%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/188e0303ec65c7c43548a2744bb26e40-%23005+-+UMA+DID%C3%83%C2%81TICA_+PORTA%2C+CAMINHO+E+ALVO+-+Fundamentos.mp4)

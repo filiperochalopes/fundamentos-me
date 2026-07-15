@@ -1,5 +1,17 @@
 # 100 - A criação de filhos 
 
+Entender a família como um projeto de Deus (como vimos em lições anteriores) é importante para compreender seu funcionamento da maneira correta como Deus estabeleceu a criação dos filhos, a fim de não seguirmos o conselho do mundo ou as influências modernas. Os filhos deveriam ser fruto do amor comprometido entre um homem e uma mulher, por meio de uma aliança inquebrável que só poderia ser desfeita mediante a morte de um dos cônjuges. Muitos dos dramas e traumas sociais atuais não existiriam. Lembremo-nos que Deus estabeleceu um padrão para todos os relacionamentos, e a criação dos filhos não seria diferente.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  Como deve ser a criação dos filhos segundo a Palavra de Deus**
+Ef 2:2 | Ef 2:1-10 | Sl 127:3 | Pv 4:3-4 | Pv 14:26 | Jó 1:4-5 | Rm 14:12 | Ez 18:4
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=Ef+2%3A2%3BEf+2%3A1-10%3BSl+127%3A3%3BPv+4%3A3-4%3BPv+14%3A26%3BJ%C3%B3+1%3A4-5%3BRm+14%3A12%3BEz+18%3A4%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/a33ef0022b26b63ac0e10ed3b29c1711-%23100++-+A+criacao+de+filhos+-+Fundamentos.mp4)

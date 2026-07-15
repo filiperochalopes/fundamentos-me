@@ -1,5 +1,17 @@
 # 93 - Amando a Deus de todo o coração
 
+Nesta nonagésima terceira lição do Fundamentos, vamos falar sobre como devemos colocar Deus em primeiro lugar em nossa vida e buscar a Sua vontade acima de toda e qualquer coisa. Portanto, Deus é a única pessoa que devemos amar com todo o nosso entendimento. Quer dizer que buscar conhecê-Lo cada vez mais é amá-Lo com todo o nosso entendimento (também de forma racional). Quanto mais o conhecermos, tanto mais seremos capacitados para amá-Lo.
+
+## Referências e Textos Bíblicos
+
+**👉🏼  Textos introdutórios e fundamento da lição**
+Mt 22:37-38 | Mc 12:30 | Lc 10:27 | Dt 6:5 | Fp 1:9 | Ex 20:3 | Lc 9:61-62 | Hb 11:24-26 | Jo 14:21 | 1Jo 4:20-21 | 2Co 12:10 | Mt 6:33 | Sl 95:6
+
+**👉🏼  CONSIDERE ATENTAMENTE**
+Ef 2:20
+
+[Link para leitura](https://biblia.filipelopes.me/?q=Mt+22%3A37-38%3BMc+12%3A30%3BLc+10%3A27%3BDt+6%3A5%3BFp+1%3A9%3BEx+20%3A3%3BLc+9%3A61-62%3BHb+11%3A24-26%3BJo+14%3A21%3B1Jo+4%3A20-21%3B2Co+12%3A10%3BMt+6%3A33%3BSl+95%3A6%3BEf+2%3A20)
+
 ## Materiais
 
 - Vídeo principal: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/0514d0953c8267e0c502ecfb92c0ab1f-%23093+-+Amando+a+Deus+de+todo+o+coracao+-+Fundamentos.mp4)
