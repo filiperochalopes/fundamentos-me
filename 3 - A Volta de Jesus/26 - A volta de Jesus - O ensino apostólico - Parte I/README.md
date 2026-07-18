@@ -21,6 +21,7 @@ A volta de Jesus O ensino apostólico Parte I Nesta vigésima sexta lição, vam
 - YouTube — versão resumida: [abrir](https://youtu.be/PhidueKSttI)
 - Vídeo completo: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/3095a8536a230115eb515a3244b82b17-%23026+-+A+VOLTA+DE+JESUS_+O+ENSINO+APOST%C3%83%C2%93LICO+-+PARTE+I+-+Fundamentos.mp4)
 - Transmissão original: [abrir](https://youtu.be/H7uIPyacfF4)
+- Vídeo em Libras: [abrir](https://youtu.be/B6y5JuAkzzk)
 - Transcrição (PDF): [arquivo local](<26 - A volta de Jesus - O ensino apostólico - Parte I.pdf>) · [link original](https://s3.sa-east-1.amazonaws.com/fundamentos.files/e3935a13030c122b8d15f5850914c8ff-l26.pdf)
 
 ## Podcasts

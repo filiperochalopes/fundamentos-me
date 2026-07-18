@@ -1,4 +1,4 @@
 interface:
-  display_name: "Enriquecer READMEs Fundamentos"
-  short_description: "Extrai resumo e referências bíblicas dos PDFs"
-  default_prompt: "Use $fundamentos-readme-enrichment para enriquecer os READMEs das lições com resumo, referências e link de leitura."
+  display_name: "Ingerir lições Fundamentos"
+  short_description: "Ingere PDF ou vídeo e cria materiais editoriais"
+  default_prompt: "Use $fundamentos-readme-enrichment para ingerir lições a partir de PDF ou YouTube, enriquecer os READMEs e criar TMP.md quando ainda não houver PDF oficial."

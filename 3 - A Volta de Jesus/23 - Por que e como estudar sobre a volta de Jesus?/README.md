@@ -33,6 +33,7 @@ Ef 2:20
 - YouTube — versão resumida: [abrir](https://youtu.be/jnLEWiGo1Bc)
 - Vídeo completo: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/ad13483f20da74bd9d6da7b8e2387a63-POR+QUE+E+COMO+ESTUDAR+SOBRE+A+VOLTA+DE+JESUS%3F+-+Fundamentos+-+%23023.mp4)
 - Transmissão original: [abrir](https://youtu.be/EPNR4JG2L7g)
+- Vídeo em Libras: [abrir](https://youtu.be/5i6-6liCVGY)
 - Transcrição (PDF): [arquivo local](<23 - Por que e como estudar sobre a volta de Jesus?.pdf>) · [link original](https://s3.sa-east-1.amazonaws.com/fundamentos.files/a01db4183637a8e765ae94973500741b-l23.pdf)
 
 ## Podcasts

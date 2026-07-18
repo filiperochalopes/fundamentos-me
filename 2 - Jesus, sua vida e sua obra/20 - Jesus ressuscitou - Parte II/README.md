@@ -42,6 +42,7 @@ At 1:8 | Jo 20:29 | 1Co 15:14-18 | Ef 2:20
 - YouTube — versão resumida: [abrir](https://www.youtube.com/watch?v=y0W_ZCb8lJE)
 - Vídeo completo: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/6322c2c9454d7b22b332e9ed162b6498-JESUS+RESSUSCITOU+-+PARTE+II+-+Fundamentos+-+%23020.mp4)
 - Transmissão original: [abrir](https://youtu.be/8US87JNSyu8)
+- Vídeo em Libras: [abrir](https://youtu.be/XioJMQ4WALQ)
 - Transcrição (PDF): [arquivo local](<20 - Jesus ressuscitou - Parte II.pdf>) · [link original](https://s3.sa-east-1.amazonaws.com/fundamentos.files/523fa46433c4d28cd8e0004cfcbccf6a-l20.pdf)
 
 ## Podcasts

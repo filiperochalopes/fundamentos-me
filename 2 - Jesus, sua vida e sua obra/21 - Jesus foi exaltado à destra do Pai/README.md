@@ -39,6 +39,7 @@ Ef 2:20
 - YouTube — versão resumida: [abrir](https://youtu.be/d-ugXXWV3Xk)
 - Vídeo completo: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/fb3f6e1013a8950e396882e534006e0a-JESUS+FOI+EXALTADO+%C3%83%C2%80+DESTRA+DO+PAI+-+Fundamentos+-+%23021.mp4)
 - Transmissão original: [abrir](https://youtu.be/V35Chv3RZeY)
+- Vídeo em Libras: [abrir](https://youtu.be/c8xYAm2xwTw)
 - Transcrição (PDF): [arquivo local](<21 - Jesus foi exaltado à destra do Pai.pdf>) · [link original](https://s3.sa-east-1.amazonaws.com/fundamentos.files/0eb1e3ab0c0afeed865ff5eb78db180c-21_Licao%20%2321%20Simply.Fly.pdf)
 
 ## Podcasts

@@ -33,7 +33,7 @@ Ef 2:20
 - YouTube — versão resumida: [abrir](https://www.youtube.com/watch?v=GEPIvAiu8Tg)
 - Vídeo completo: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/8dff99fa6861061123bfafa8560a994f-O+EVANGELHO+DO+REINO+DE+DEUS+-+Fundamentos+-+%23014.mp4)
 - Transmissão original: [abrir](https://youtu.be/x5N9bsmdCyQ)
-- Vídeo em Libras: [abrir](https://youtu.be/JK3TL3Bxuvk)
+- Vídeo em Libras: [abrir](https://youtu.be/j-HP2LaQV-I)
 - Transcrição (PDF): [arquivo local](<14 - O Evangelho do Reino de Deus.pdf>) · [link original](https://s3.sa-east-1.amazonaws.com/fundamentos.files/386070d2c2344ef809891a73c2826122-l14.pdf)
 
 ## Podcasts

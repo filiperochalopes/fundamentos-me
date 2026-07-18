@@ -21,6 +21,7 @@ Ef 2:20
 - YouTube — versão resumida: [abrir](https://youtu.be/8HTOldMs4CY)
 - Vídeo completo: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/53273f1cb2fd4636b67123261d213140-JESUS+AP%C3%93S+A+EXALTA%C3%87%C3%83O+-+Fundamentos+-+%23022.mp4)
 - Transmissão original: [abrir](https://youtu.be/oBjK0CeHpjc)
+- Vídeo em Libras: [abrir](https://youtu.be/R9aedxq2eCY)
 - Transcrição (PDF): [arquivo local](<22 - Jesus após a exaltação.pdf>) · [link original](https://s3.sa-east-1.amazonaws.com/fundamentos.files/80e6d3ceaec8c668b128d0fa4e3ea2e4-l22.pdf)
 
 ## Podcasts

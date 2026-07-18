@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-15",
+  "generated_at": "2026-07-17",
   "source": {
     "app": "Fundamentos",
     "endpoint": "https://api.fundamentos.me/api/edge/cycles",
-    "validation": "Estrutura e tipos de mídia conferidos no app via Espelhamento do iPhone"
+    "validation": "Estrutura e tipos de mídia conferidos no app via Espelhamento do iPhone; lições 140-145 adicionadas provisoriamente a partir do canal público do YouTube"
   },
   "summary": {
-    "cycle_count": 15,
-    "lesson_count": 139
+    "cycle_count": 19,
+    "lesson_count": 145
   },
   "cycles": [
     {
@@ -451,7 +451,7 @@
               "youtube_summary": "https://www.youtube.com/watch?v=GEPIvAiu8Tg",
               "full_video": "https://s3.sa-east-1.amazonaws.com/fundamentos.files/8dff99fa6861061123bfafa8560a994f-O+EVANGELHO+DO+REINO+DE+DEUS+-+Fundamentos+-+%23014.mp4",
               "original_live": "https://youtu.be/x5N9bsmdCyQ",
-              "sign_language": "https://youtu.be/JK3TL3Bxuvk"
+              "sign_language": "https://youtu.be/j-HP2LaQV-I"
             },
             "transcript_pdf": "https://s3.sa-east-1.amazonaws.com/fundamentos.files/386070d2c2344ef809891a73c2826122-l14.pdf",
             "podcasts": [
@@ -547,7 +547,7 @@
               "youtube_summary": "https://www.youtube.com/watch?v=HcJcOuXwaJI",
               "full_video": "https://s3.sa-east-1.amazonaws.com/fundamentos.files/dd8b519aef97e35a7032e53d089c4aa6-JESUS+MORREU+NA+CRUZ+-+Fundamentos+-+%23017-2.mp4",
               "original_live": "https://youtu.be/CzqZNkkBxDs",
-              "sign_language": null
+              "sign_language": "https://youtu.be/dA-vCcw7smE"
             },
             "transcript_pdf": "https://s3.sa-east-1.amazonaws.com/fundamentos.files/a371df8da8a98658021372cad542cd16-17_Licao%20%2317%20Simply.Fly.pdf",
             "podcasts": [
@@ -579,7 +579,7 @@
               "youtube_summary": "https://www.youtube.com/watch?v=N7Idhwt_AJg",
               "full_video": "https://s3.sa-east-1.amazonaws.com/fundamentos.files/b9e2172a29b9c5a3ac49fd35fc523212-JESUS+DESCEU+AO+HADES+-+Fundamentos+-+%23018-2.mp4",
               "original_live": "https://youtu.be/7pcUZkem7fM",
-              "sign_language": null
+              "sign_language": "https://youtu.be/TFGoGrLaOyQ"
             },
             "transcript_pdf": "https://s3.sa-east-1.amazonaws.com/fundamentos.files/5c6ba04ec1b402cc698138ec626bed8b-18_Licao%20%2318%20Simply.Fly.pdf",
             "podcasts": [
@@ -611,7 +611,7 @@
               "youtube_summary": "https://youtu.be/ZztOKlT13xw",
               "full_video": "https://s3.sa-east-1.amazonaws.com/fundamentos.files/92d4f75651c255af5b062c0afde74420-JESUS+RESSUSCITOU+-+PARTE+I+-+Fundamentos+-+%23019.mp4",
               "original_live": "https://youtu.be/Cw3MoRpDG4Q",
-              "sign_language": null
+              "sign_language": "https://youtu.be/iVWn_O7g92M"
             },
             "transcript_pdf": "https://s3.sa-east-1.amazonaws.com/fundamentos.files/f71c6510ab66983417faf0f5480bf2d8-l19.pdf",
             "podcasts": [
@@ -643,7 +643,7 @@
               "youtube_summary": "https://www.youtube.com/watch?v=y0W_ZCb8lJE",
               "full_video": "https://s3.sa-east-1.amazonaws.com/fundamentos.files/6322c2c9454d7b22b332e9ed162b6498-JESUS+RESSUSCITOU+-+PARTE+II+-+Fundamentos+-+%23020.mp4",
               "original_live": "https://youtu.be/8US87JNSyu8",
-              "sign_language": null
+              "sign_language": "https://youtu.be/XioJMQ4WALQ"
             },
             "transcript_pdf": "https://s3.sa-east-1.amazonaws.com/fundamentos.files/523fa46433c4d28cd8e0004cfcbccf6a-l20.pdf",
             "podcasts": [
@@ -675,7 +675,7 @@
               "youtube_summary": "https://youtu.be/d-ugXXWV3Xk",
               "full_video": "https://s3.sa-east-1.amazonaws.com/fundamentos.files/fb3f6e1013a8950e396882e534006e0a-JESUS+FOI+EXALTADO+%C3%83%C2%80+DESTRA+DO+PAI+-+Fundamentos+-+%23021.mp4",
               "original_live": "https://youtu.be/V35Chv3RZeY",
-              "sign_language": null
+              "sign_language": "https://youtu.be/c8xYAm2xwTw"
             },
             "transcript_pdf": "https://s3.sa-east-1.amazonaws.com/fundamentos.files/0eb1e3ab0c0afeed865ff5eb78db180c-21_Licao%20%2321%20Simply.Fly.pdf",
             "podcasts": [
@@ -707,7 +707,7 @@
               "youtube_summary": "https://youtu.be/8HTOldMs4CY",
               "full_video": "https://s3.sa-east-1.amazonaws.com/fundamentos.files/53273f1cb2fd4636b67123261d213140-JESUS+AP%C3%93S+A+EXALTA%C3%87%C3%83O+-+Fundamentos+-+%23022.mp4",
               "original_live": "https://youtu.be/oBjK0CeHpjc",
-              "sign_language": null
+              "sign_language": "https://youtu.be/R9aedxq2eCY"
             },
             "transcript_pdf": "https://s3.sa-east-1.amazonaws.com/fundamentos.files/80e6d3ceaec8c668b128d0fa4e3ea2e4-l22.pdf",
             "podcasts": [
@@ -747,7 +747,7 @@
               "youtube_summary": "https://youtu.be/jnLEWiGo1Bc",
               "full_video": "https://s3.sa-east-1.amazonaws.com/fundamentos.files/ad13483f20da74bd9d6da7b8e2387a63-POR+QUE+E+COMO+ESTUDAR+SOBRE+A+VOLTA+DE+JESUS%3F+-+Fundamentos+-+%23023.mp4",
               "original_live": "https://youtu.be/EPNR4JG2L7g",
-              "sign_language": null
+              "sign_language": "https://youtu.be/5i6-6liCVGY"
             },
             "transcript_pdf": "https://s3.sa-east-1.amazonaws.com/fundamentos.files/a01db4183637a8e765ae94973500741b-l23.pdf",
             "podcasts": [
@@ -779,7 +779,7 @@
               "youtube_summary": "https://youtu.be/2E91gsxCNbs",
               "full_video": "https://s3.sa-east-1.amazonaws.com/fundamentos.files/5aeb56a2aa904435673307c1296b6b73-O+QUE+JESUS+ENSINOU+SOBRE+SUA+VOLTA%3F+-+Fundamentos+-+%23024.mp4",
               "original_live": "https://youtu.be/RIIZ9UhBbjg",
-              "sign_language": null
+              "sign_language": "https://youtu.be/9xhbk1rNppo"
             },
             "transcript_pdf": "https://s3.sa-east-1.amazonaws.com/fundamentos.files/d7d9a59bb9496d420258d2a9ea36e5a5-l24.pdf",
             "podcasts": [
@@ -811,7 +811,7 @@
               "youtube_summary": "https://youtu.be/QdGmr0422Zc",
               "full_video": "https://s3.sa-east-1.amazonaws.com/fundamentos.files/f1e588537bc0051d195b2f50960ff6fd-AS+70+SEMANAS+DE+DANIEL+E+O+ABOMIN%C3%83%C2%81VEL+DA+DESOLA%C3%83%C2%87%C3%83%C2%83O+-+Fundamentos+-+%23025.mp4",
               "original_live": "https://www.youtube.com/watch?v=Uimj-Qe7dHQ",
-              "sign_language": null
+              "sign_language": "https://youtu.be/etRCQKRCeq8"
             },
             "transcript_pdf": "https://s3.sa-east-1.amazonaws.com/fundamentos.files/64120742707d0e8e02499f8e96993531-l25.pdf",
             "podcasts": [
@@ -843,7 +843,7 @@
               "youtube_summary": "https://youtu.be/PhidueKSttI",
               "full_video": "https://s3.sa-east-1.amazonaws.com/fundamentos.files/3095a8536a230115eb515a3244b82b17-%23026+-+A+VOLTA+DE+JESUS_+O+ENSINO+APOST%C3%83%C2%93LICO+-+PARTE+I+-+Fundamentos.mp4",
               "original_live": "https://youtu.be/H7uIPyacfF4",
-              "sign_language": null
+              "sign_language": "https://youtu.be/B6y5JuAkzzk"
             },
             "transcript_pdf": "https://s3.sa-east-1.amazonaws.com/fundamentos.files/e3935a13030c122b8d15f5850914c8ff-l26.pdf",
             "podcasts": [
@@ -4520,6 +4520,137 @@
       "id": "621f9e1f546fb1001680f96e",
       "number": 15,
       "title": "O caráter do que caminha com Cristo",
+      "active": false,
+      "lessons": [
+        {
+          "id": "youtube-TW4nge0LAmc",
+          "number": 140,
+          "title": "O dízimo é para hoje?",
+          "provisional_note": "Classificação provisória: a associação das lições 140-145 ao ciclo 15 não é oficial e poderá ser alterada quando o planejamento definitivo for publicado.",
+          "links": {
+            "video": {
+              "primary": null,
+              "youtube_summary": "https://www.youtube.com/watch?v=TW4nge0LAmc",
+              "full_video": null,
+              "original_live": null,
+              "sign_language": null
+            },
+            "transcript_pdf": null,
+            "podcasts": []
+          }
+        },
+        {
+          "id": "youtube-lYVlL0exdFw",
+          "number": 141,
+          "title": "A graça da generosidade",
+          "provisional_note": "Classificação provisória: a associação das lições 140-145 ao ciclo 15 não é oficial e poderá ser alterada quando o planejamento definitivo for publicado.",
+          "links": {
+            "video": {
+              "primary": null,
+              "youtube_summary": "https://www.youtube.com/watch?v=lYVlL0exdFw",
+              "full_video": null,
+              "original_live": null,
+              "sign_language": null
+            },
+            "transcript_pdf": null,
+            "podcasts": []
+          }
+        },
+        {
+          "id": "youtube-FPbIm-0jUlo",
+          "number": 142,
+          "title": "A contribuição na Igreja",
+          "provisional_note": "Classificação provisória: a associação das lições 140-145 ao ciclo 15 não é oficial e poderá ser alterada quando o planejamento definitivo for publicado.",
+          "links": {
+            "video": {
+              "primary": null,
+              "youtube_summary": "https://www.youtube.com/watch?v=FPbIm-0jUlo",
+              "full_video": null,
+              "original_live": null,
+              "sign_language": null
+            },
+            "transcript_pdf": null,
+            "podcasts": []
+          }
+        },
+        {
+          "id": "youtube-Rcro-qaYg8U",
+          "number": 143,
+          "title": "O pecado da avareza",
+          "provisional_note": "Classificação provisória: a associação das lições 140-145 ao ciclo 15 não é oficial e poderá ser alterada quando o planejamento definitivo for publicado.",
+          "links": {
+            "video": {
+              "primary": null,
+              "youtube_summary": "https://www.youtube.com/watch?v=Rcro-qaYg8U",
+              "full_video": null,
+              "original_live": null,
+              "sign_language": null
+            },
+            "transcript_pdf": null,
+            "podcasts": []
+          }
+        },
+        {
+          "id": "youtube-MfZrJE9QA7I",
+          "number": 144,
+          "title": "As Marcas de um Mordomo Fiel",
+          "provisional_note": "Classificação provisória: a associação das lições 140-145 ao ciclo 15 não é oficial e poderá ser alterada quando o planejamento definitivo for publicado.",
+          "links": {
+            "video": {
+              "primary": null,
+              "youtube_summary": "https://www.youtube.com/watch?v=MfZrJE9QA7I",
+              "full_video": null,
+              "original_live": null,
+              "sign_language": null
+            },
+            "transcript_pdf": null,
+            "podcasts": []
+          }
+        },
+        {
+          "id": "youtube-WBc1q5Rr2Sk",
+          "number": 145,
+          "title": "A Má Mordomia e os Princípios de Deus",
+          "provisional_note": "Classificação provisória: a associação das lições 140-145 ao ciclo 15 não é oficial e poderá ser alterada quando o planejamento definitivo for publicado.",
+          "links": {
+            "video": {
+              "primary": null,
+              "youtube_summary": "https://www.youtube.com/watch?v=WBc1q5Rr2Sk",
+              "full_video": null,
+              "original_live": null,
+              "sign_language": null
+            },
+            "transcript_pdf": null,
+            "podcasts": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "local-cycle-16",
+      "number": 16,
+      "title": "Caminhos diferentes?",
+      "active": false,
+      "lessons": []
+    },
+    {
+      "id": "local-cycle-17",
+      "number": 17,
+      "title": "Caminhos estranhos",
+      "active": false,
+      "lessons": []
+    },
+    {
+      "id": "local-cycle-18",
+      "number": 18,
+      "title": "A caminhada da Igreja (História)",
+      "active": false,
+      "lessons": []
+    },
+    {
+      "id": "local-cycle-19",
+      "number": 19,
+      "title": "Nossa caminhada",
       "active": false,
       "lessons": []
     }

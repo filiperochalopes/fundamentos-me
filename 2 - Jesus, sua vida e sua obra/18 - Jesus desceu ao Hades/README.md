@@ -21,6 +21,7 @@ Ef 2:20
 - YouTube — versão resumida: [abrir](https://www.youtube.com/watch?v=N7Idhwt_AJg)
 - Vídeo completo: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/b9e2172a29b9c5a3ac49fd35fc523212-JESUS+DESCEU+AO+HADES+-+Fundamentos+-+%23018-2.mp4)
 - Transmissão original: [abrir](https://youtu.be/7pcUZkem7fM)
+- Vídeo em Libras: [abrir](https://youtu.be/TFGoGrLaOyQ)
 - Transcrição (PDF): [arquivo local](<18 - Jesus desceu ao Hades.pdf>) · [link original](https://s3.sa-east-1.amazonaws.com/fundamentos.files/5c6ba04ec1b402cc698138ec626bed8b-18_Licao%20%2318%20Simply.Fly.pdf)
 
 ## Podcasts

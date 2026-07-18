@@ -50,9 +50,12 @@ def lesson_readme(lesson: dict, pdf_name: str, existing_readme: str | None = Non
     links = lesson["links"]
     video = links["video"]
     lines = [f"# {number} - {title}", ""]
+    provisional_note = lesson.get("provisional_note")
     enrichment = preserved_enrichment(existing_readme)
     if enrichment:
         lines.extend([enrichment, ""])
+    elif provisional_note:
+        lines.extend([f"> **Nota provisória:** {provisional_note}", ""])
     lines.extend(["## Materiais", ""])
 
     video_items = [
@@ -72,6 +75,12 @@ def lesson_readme(lesson: dict, pdf_name: str, existing_readme: str | None = Non
         lines.append(
             f"- Transcrição (PDF): [arquivo local](<{pdf_name}>) · "
             f"[link original]({pdf_url})"
+        )
+    elif provisional_note:
+        lines.append("- Texto provisório: [arquivo local](TMP.md)")
+        lines.append(
+            "- Transcrição automática do vídeo: "
+            "[arquivo local](ytvideo_transcription.txt)"
         )
 
     podcasts = links.get("podcasts", [])

@@ -21,6 +21,7 @@ Ef 2:20
 - YouTube — versão resumida: [abrir](https://youtu.be/QdGmr0422Zc)
 - Vídeo completo: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/f1e588537bc0051d195b2f50960ff6fd-AS+70+SEMANAS+DE+DANIEL+E+O+ABOMIN%C3%83%C2%81VEL+DA+DESOLA%C3%83%C2%87%C3%83%C2%83O+-+Fundamentos+-+%23025.mp4)
 - Transmissão original: [abrir](https://www.youtube.com/watch?v=Uimj-Qe7dHQ)
+- Vídeo em Libras: [abrir](https://youtu.be/etRCQKRCeq8)
 - Transcrição (PDF): [arquivo local](<25 - As setenta semanas de Daniel e o abominável da desolação.pdf>) · [link original](https://s3.sa-east-1.amazonaws.com/fundamentos.files/64120742707d0e8e02499f8e96993531-l25.pdf)
 
 ## Podcasts

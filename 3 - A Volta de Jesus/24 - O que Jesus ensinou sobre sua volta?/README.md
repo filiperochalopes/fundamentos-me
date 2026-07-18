@@ -24,6 +24,7 @@ Ef 2:20
 - YouTube — versão resumida: [abrir](https://youtu.be/2E91gsxCNbs)
 - Vídeo completo: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/5aeb56a2aa904435673307c1296b6b73-O+QUE+JESUS+ENSINOU+SOBRE+SUA+VOLTA%3F+-+Fundamentos+-+%23024.mp4)
 - Transmissão original: [abrir](https://youtu.be/RIIZ9UhBbjg)
+- Vídeo em Libras: [abrir](https://youtu.be/9xhbk1rNppo)
 - Transcrição (PDF): [arquivo local](<24 - O que Jesus ensinou sobre sua volta?.pdf>) · [link original](https://s3.sa-east-1.amazonaws.com/fundamentos.files/d7d9a59bb9496d420258d2a9ea36e5a5-l24.pdf)
 
 ## Podcasts

@@ -30,6 +30,7 @@ Ef 2:20
 - YouTube — versão resumida: [abrir](https://www.youtube.com/watch?v=HcJcOuXwaJI)
 - Vídeo completo: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/dd8b519aef97e35a7032e53d089c4aa6-JESUS+MORREU+NA+CRUZ+-+Fundamentos+-+%23017-2.mp4)
 - Transmissão original: [abrir](https://youtu.be/CzqZNkkBxDs)
+- Vídeo em Libras: [abrir](https://youtu.be/dA-vCcw7smE)
 - Transcrição (PDF): [arquivo local](<17 - Jesus morreu na cruz.pdf>) · [link original](https://s3.sa-east-1.amazonaws.com/fundamentos.files/a371df8da8a98658021372cad542cd16-17_Licao%20%2317%20Simply.Fly.pdf)
 
 ## Podcasts

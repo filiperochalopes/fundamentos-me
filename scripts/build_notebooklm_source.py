@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Combine the textual content of all lesson PDFs into one NotebookLM source."""
+"""Combine every lesson PDF or provisional TMP.md into one NotebookLM source."""
 
 from __future__ import annotations
 
@@ -40,6 +40,7 @@ REFERENCE_RE = re.compile(
     r"(?:\s+[A-ZÁÉÍÓÚÂÊÔÃÕÇa-záéíóúâêôãõç.]+){0,3})\s+"
     r"\d{1,3}:\d{1,3}(?:\s*[-,;]\s*\d{1,3})*(?:\s*[-–]\s*\d{1,3}:\d{1,3})?$"
 )
+MARKDOWN_HEADING = "\x1e"
 
 
 def register_fonts() -> None:
@@ -49,14 +50,21 @@ def register_fonts() -> None:
     pdfmetrics.registerFont(TTFont("Vera-Italic", font_dir / "VeraIt.ttf"))
 
 
-def lesson_pdfs(root: Path) -> list[Path]:
-    """Return only PDFs in the canonical cycle/lesson/file layout."""
-    paths = [
-        path
-        for path in root.glob("*/*/*.pdf")
-        if path.parent.parent.name[:1].isdigit() and path.parent.name[:1].isdigit()
-    ]
-    return sorted(paths, key=lambda path: lesson_number(path.parent.name))
+def lesson_sources(root: Path) -> list[Path]:
+    """Return one canonical source per lesson, preferring PDF over TMP.md."""
+    sources: list[Path] = []
+    for lesson_dir in root.glob("*/*"):
+        if not lesson_dir.is_dir():
+            continue
+        if not lesson_dir.parent.name[:1].isdigit() or not lesson_dir.name[:1].isdigit():
+            continue
+        pdfs = sorted(lesson_dir.glob("*.pdf"))
+        temporary = lesson_dir / "TMP.md"
+        if pdfs:
+            sources.append(pdfs[0])
+        elif temporary.is_file():
+            sources.append(temporary)
+    return sorted(sources, key=lambda path: lesson_number(path.parent.name))
 
 
 def lesson_number(value: str) -> int:
@@ -115,7 +123,54 @@ def paragraphs_from_pdf(path: Path, lesson_title: str) -> list[str]:
     return paragraphs
 
 
+def paragraphs_from_markdown(path: Path, lesson_title: str) -> list[str]:
+    """Read the simplified Markdown source while retaining its section headings."""
+    paragraphs: list[str] = []
+    buffer: list[str] = []
+    normalized_title = re.sub(r"\s+", " ", lesson_title).casefold()
+
+    def flush() -> None:
+        value = re.sub(r"\s+", " ", " ".join(buffer)).strip()
+        if value:
+            paragraphs.append(value)
+        buffer.clear()
+
+    for raw in path.read_text(encoding="utf-8").splitlines():
+        line = raw.strip()
+        if not line:
+            flush()
+            continue
+        if line.startswith("# "):
+            heading = re.sub(r"^#\s+", "", line).strip()
+            if re.sub(r"^Li[cç][aã]o\s+\d+\s*[-–—:]\s*", "", heading, flags=re.I).casefold() == normalized_title:
+                continue
+            flush()
+            paragraphs.append(heading)
+            continue
+        if line.startswith("##"):
+            flush()
+            heading = re.sub(r"^#{2,6}\s+", "", line).strip()
+            paragraphs.append(MARKDOWN_HEADING + heading)
+            continue
+        line = re.sub(r"^>\s*", "", line)
+        line = re.sub(r"\*\*(.*?)\*\*", r"\1", line)
+        line = re.sub(r"`([^`]*)`", r"\1", line)
+        if re.match(r"^[-*+]\s+", line):
+            flush()
+            paragraphs.append(re.sub(r"^[-*+]\s+", "• ", line))
+            continue
+        if re.match(r"^\d+[.)]\s+", line):
+            flush()
+            paragraphs.append(line)
+            continue
+        buffer.append(line)
+    flush()
+    return paragraphs
+
+
 def is_heading(text: str) -> bool:
+    if text.startswith(MARKDOWN_HEADING):
+        return True
     if len(text) > 110 or text.endswith(('.', '?', '!', ';', ':')):
         return False
     return (
@@ -235,9 +290,9 @@ def page_footer(canvas, doc) -> None:  # reportlab callback signature
 
 def build(root: Path, output: Path) -> None:
     register_fonts()
-    pdfs = lesson_pdfs(root)
-    if not pdfs:
-        raise SystemExit(f"Nenhum PDF de aula encontrado em {root}")
+    sources = lesson_sources(root)
+    if not sources:
+        raise SystemExit(f"Nenhum PDF ou TMP.md de aula encontrado em {root}")
 
     style = styles()
     frame = Frame(22 * mm, 18 * mm, A4[0] - 44 * mm, A4[1] - 36 * mm, id="content")
@@ -254,7 +309,7 @@ def build(root: Path, output: Path) -> None:
     document.addPageTemplates(PageTemplate(id="lesson", frames=[frame], onPage=page_footer))
     story = []
 
-    for index, path in enumerate(pdfs):
+    for index, path in enumerate(sources):
         cycle_number = lesson_number(path.parent.parent.name)
         lesson_no = lesson_number(path.parent.name)
         cycle_title = strip_number(path.parent.parent.name)
@@ -275,7 +330,11 @@ def build(root: Path, output: Path) -> None:
             ]
         )
 
-        paragraphs = paragraphs_from_pdf(path, lesson_title)
+        paragraphs = (
+            paragraphs_from_pdf(path, lesson_title)
+            if path.suffix.casefold() == ".pdf"
+            else paragraphs_from_markdown(path, lesson_title)
+        )
         i = 0
         while i < len(paragraphs):
             text = paragraphs[i]
@@ -284,15 +343,22 @@ def build(root: Path, output: Path) -> None:
                 story.append(Spacer(1, 2 * mm))
                 i += 2
                 continue
-            story.append(Paragraph(escape(text), style["heading"] if is_heading(text) else style["body"]))
+            display_text = text.removeprefix(MARKDOWN_HEADING)
+            story.append(
+                Paragraph(
+                    escape(display_text),
+                    style["heading"] if is_heading(text) else style["body"],
+                )
+            )
             i += 1
 
-        print(f"[{index + 1:03d}/{len(pdfs):03d}] {path.parent.name}")
+        source_label = "PDF" if path.suffix.casefold() == ".pdf" else "TMP"
+        print(f"[{index + 1:03d}/{len(sources):03d}] {path.parent.name} [{source_label}]")
 
     output.parent.mkdir(parents=True, exist_ok=True)
     document.build(story)
     print(f"PDF criado: {output}")
-    print(f"Aulas incluídas: {len(pdfs)}")
+    print(f"Aulas incluídas: {len(sources)}")
 
 
 def main() -> None:

@@ -24,6 +24,7 @@ Ef 2:20
 - YouTube — versão resumida: [abrir](https://youtu.be/ZztOKlT13xw)
 - Vídeo completo: [abrir](https://s3.sa-east-1.amazonaws.com/fundamentos.files/92d4f75651c255af5b062c0afde74420-JESUS+RESSUSCITOU+-+PARTE+I+-+Fundamentos+-+%23019.mp4)
 - Transmissão original: [abrir](https://youtu.be/Cw3MoRpDG4Q)
+- Vídeo em Libras: [abrir](https://youtu.be/iVWn_O7g92M)
 - Transcrição (PDF): [arquivo local](<19 - Jesus ressuscitou - Parte I.pdf>) · [link original](https://s3.sa-east-1.amazonaws.com/fundamentos.files/f71c6510ab66983417faf0f5480bf2d8-l19.pdf)
 
 ## Podcasts
